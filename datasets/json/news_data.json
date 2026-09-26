@@ -1,0 +1,3116 @@
+[
+  {
+    "news_id": 222,
+    "sentiment_label": "positive",
+    "p_negative": 0.0010373648256063461,
+    "p_neutral": 0.005578102543950081,
+    "p_positive": 0.9933845400810242,
+    "sentiment_score": 0.9923471752554178,
+    "confidence": 0.9933845400810242
+  },
+  {
+    "news_id": 221,
+    "sentiment_label": "positive",
+    "p_negative": 0.05468454584479332,
+    "p_neutral": 0.42507821321487427,
+    "p_positive": 0.5202372670173645,
+    "sentiment_score": 0.4655527211725712,
+    "confidence": 0.5202372670173645
+  },
+  {
+    "news_id": 32,
+    "sentiment_label": "positive",
+    "p_negative": 0.001224868930876255,
+    "p_neutral": 0.011829541064798832,
+    "p_positive": 0.9869455695152283,
+    "sentiment_score": 0.985720700584352,
+    "confidence": 0.9869455695152283
+  },
+  {
+    "news_id": 220,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004988475702702999,
+    "p_neutral": 0.005325312726199627,
+    "p_positive": 0.9941757917404175,
+    "sentiment_score": 0.9936769441701472,
+    "confidence": 0.9941757917404175
+  },
+  {
+    "news_id": 246,
+    "sentiment_label": "positive",
+    "p_negative": 0.001518303994089365,
+    "p_neutral": 0.005708572920411825,
+    "p_positive": 0.9927731156349182,
+    "sentiment_score": 0.9912548116408288,
+    "confidence": 0.9927731156349182
+  },
+  {
+    "news_id": 245,
+    "sentiment_label": "positive",
+    "p_negative": 0.028647195547819138,
+    "p_neutral": 0.16789619624614716,
+    "p_positive": 0.8034565448760986,
+    "sentiment_score": 0.7748093493282795,
+    "confidence": 0.8034565448760986
+  },
+  {
+    "news_id": 219,
+    "sentiment_label": "positive",
+    "p_negative": 0.006289053242653608,
+    "p_neutral": 0.030148249119520187,
+    "p_positive": 0.9635626673698425,
+    "sentiment_score": 0.9572736141271889,
+    "confidence": 0.9635626673698425
+  },
+  {
+    "news_id": 218,
+    "sentiment_label": "neutral",
+    "p_negative": 0.29849138855934143,
+    "p_neutral": 0.6814899444580078,
+    "p_positive": 0.020018668845295906,
+    "sentiment_score": -0.2784727197140455,
+    "confidence": 0.6814899444580078
+  },
+  {
+    "news_id": 217,
+    "sentiment_label": "negative",
+    "p_negative": 0.5725205540657043,
+    "p_neutral": 0.3453277349472046,
+    "p_positive": 0.08215174823999405,
+    "sentiment_score": -0.4903688058257103,
+    "confidence": 0.5725205540657043
+  },
+  {
+    "news_id": 216,
+    "sentiment_label": "neutral",
+    "p_negative": 0.18108251690864563,
+    "p_neutral": 0.7661200165748596,
+    "p_positive": 0.052797459065914154,
+    "sentiment_score": -0.12828505784273148,
+    "confidence": 0.7661200165748596
+  },
+  {
+    "news_id": 215,
+    "sentiment_label": "positive",
+    "p_negative": 0.050991907715797424,
+    "p_neutral": 0.41803932189941406,
+    "p_positive": 0.5309687256813049,
+    "sentiment_score": 0.4799768179655075,
+    "confidence": 0.5309687256813049
+  },
+  {
+    "news_id": 214,
+    "sentiment_label": "positive",
+    "p_negative": 0.008022763766348362,
+    "p_neutral": 0.060457222163677216,
+    "p_positive": 0.9315200448036194,
+    "sentiment_score": 0.923497281037271,
+    "confidence": 0.9315200448036194
+  },
+  {
+    "news_id": 31,
+    "sentiment_label": "neutral",
+    "p_negative": 0.09900422394275665,
+    "p_neutral": 0.6887117028236389,
+    "p_positive": 0.21228398382663727,
+    "sentiment_score": 0.11327975988388062,
+    "confidence": 0.6887117028236389
+  },
+  {
+    "news_id": 213,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009668918792158365,
+    "p_neutral": 0.005010487046092749,
+    "p_positive": 0.9940226674079895,
+    "sentiment_score": 0.9930557755287737,
+    "confidence": 0.9940226674079895
+  },
+  {
+    "news_id": 212,
+    "sentiment_label": "positive",
+    "p_negative": 0.015053304843604565,
+    "p_neutral": 0.36040443181991577,
+    "p_positive": 0.624542236328125,
+    "sentiment_score": 0.6094889314845204,
+    "confidence": 0.624542236328125
+  },
+  {
+    "news_id": 30,
+    "sentiment_label": "positive",
+    "p_negative": 0.004923819098621607,
+    "p_neutral": 0.05409899726510048,
+    "p_positive": 0.940977156162262,
+    "sentiment_score": 0.9360533370636404,
+    "confidence": 0.940977156162262
+  },
+  {
+    "news_id": 29,
+    "sentiment_label": "positive",
+    "p_negative": 0.009621834382414818,
+    "p_neutral": 0.08980697393417358,
+    "p_positive": 0.9005711674690247,
+    "sentiment_score": 0.8909493330866098,
+    "confidence": 0.9005711674690247
+  },
+  {
+    "news_id": 28,
+    "sentiment_label": "positive",
+    "p_negative": 0.006816859357059002,
+    "p_neutral": 0.06862389296293259,
+    "p_positive": 0.9245592355728149,
+    "sentiment_score": 0.9177423762157559,
+    "confidence": 0.9245592355728149
+  },
+  {
+    "news_id": 27,
+    "sentiment_label": "positive",
+    "p_negative": 0.04417088255286217,
+    "p_neutral": 0.27864816784858704,
+    "p_positive": 0.6771809458732605,
+    "sentiment_score": 0.6330100633203983,
+    "confidence": 0.6771809458732605
+  },
+  {
+    "news_id": 211,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006926527130417526,
+    "p_neutral": 0.0037038824521005154,
+    "p_positive": 0.9956034421920776,
+    "sentiment_score": 0.9949107894790359,
+    "confidence": 0.9956034421920776
+  },
+  {
+    "news_id": 26,
+    "sentiment_label": "positive",
+    "p_negative": 0.001399574219249189,
+    "p_neutral": 0.018166163936257362,
+    "p_positive": 0.980434238910675,
+    "sentiment_score": 0.9790346646914259,
+    "confidence": 0.980434238910675
+  },
+  {
+    "news_id": 25,
+    "sentiment_label": "neutral",
+    "p_negative": 0.09503402560949326,
+    "p_neutral": 0.7086067199707031,
+    "p_positive": 0.1963592916727066,
+    "sentiment_score": 0.10132526606321335,
+    "confidence": 0.7086067199707031
+  },
+  {
+    "news_id": 210,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006035991827957332,
+    "p_neutral": 0.0054677752777934074,
+    "p_positive": 0.9939286708831787,
+    "sentiment_score": 0.993325071700383,
+    "confidence": 0.9939286708831787
+  },
+  {
+    "news_id": 209,
+    "sentiment_label": "positive",
+    "p_negative": 0.004304679576307535,
+    "p_neutral": 0.10339951515197754,
+    "p_positive": 0.892295777797699,
+    "sentiment_score": 0.8879910982213914,
+    "confidence": 0.892295777797699
+  },
+  {
+    "news_id": 208,
+    "sentiment_label": "positive",
+    "p_negative": 0.002060837112367153,
+    "p_neutral": 0.057304784655570984,
+    "p_positive": 0.9406343102455139,
+    "sentiment_score": 0.9385734731331468,
+    "confidence": 0.9406343102455139
+  },
+  {
+    "news_id": 207,
+    "sentiment_label": "positive",
+    "p_negative": 0.0061897230334579945,
+    "p_neutral": 0.03434517979621887,
+    "p_positive": 0.9594650864601135,
+    "sentiment_score": 0.9532753634266555,
+    "confidence": 0.9594650864601135
+  },
+  {
+    "news_id": 244,
+    "sentiment_label": "positive",
+    "p_negative": 0.0030270942952483892,
+    "p_neutral": 0.06429366022348404,
+    "p_positive": 0.932679295539856,
+    "sentiment_score": 0.9296522012446076,
+    "confidence": 0.932679295539856
+  },
+  {
+    "news_id": 243,
+    "sentiment_label": "neutral",
+    "p_negative": 0.04490239918231964,
+    "p_neutral": 0.6816808581352234,
+    "p_positive": 0.2734167277812958,
+    "sentiment_score": 0.22851432859897614,
+    "confidence": 0.6816808581352234
+  },
+  {
+    "news_id": 242,
+    "sentiment_label": "neutral",
+    "p_negative": 0.04665285721421242,
+    "p_neutral": 0.811385989189148,
+    "p_positive": 0.1419612020254135,
+    "sentiment_score": 0.0953083448112011,
+    "confidence": 0.811385989189148
+  },
+  {
+    "news_id": 206,
+    "sentiment_label": "positive",
+    "p_negative": 0.0012265838449820876,
+    "p_neutral": 0.00827009417116642,
+    "p_positive": 0.9905033111572266,
+    "sentiment_score": 0.9892767273122445,
+    "confidence": 0.9905033111572266
+  },
+  {
+    "news_id": 205,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004962490638718009,
+    "p_neutral": 0.005643998272716999,
+    "p_positive": 0.9938597679138184,
+    "sentiment_score": 0.9933635188499466,
+    "confidence": 0.9938597679138184
+  },
+  {
+    "news_id": 241,
+    "sentiment_label": "positive",
+    "p_negative": 0.00048565841279923916,
+    "p_neutral": 0.006322404835373163,
+    "p_positive": 0.9931918978691101,
+    "sentiment_score": 0.9927062394563109,
+    "confidence": 0.9931918978691101
+  },
+  {
+    "news_id": 204,
+    "sentiment_label": "positive",
+    "p_negative": 0.00909742247313261,
+    "p_neutral": 0.042493049055337906,
+    "p_positive": 0.9484094977378845,
+    "sentiment_score": 0.9393120752647519,
+    "confidence": 0.9484094977378845
+  },
+  {
+    "news_id": 203,
+    "sentiment_label": "positive",
+    "p_negative": 0.05687647685408592,
+    "p_neutral": 0.4626380205154419,
+    "p_positive": 0.4804854989051819,
+    "sentiment_score": 0.42360902205109596,
+    "confidence": 0.4804854989051819
+  },
+  {
+    "news_id": 202,
+    "sentiment_label": "neutral",
+    "p_negative": 0.131065234541893,
+    "p_neutral": 0.7941431403160095,
+    "p_positive": 0.07479165494441986,
+    "sentiment_score": -0.056273579597473145,
+    "confidence": 0.7941431403160095
+  },
+  {
+    "news_id": 201,
+    "sentiment_label": "positive",
+    "p_negative": 0.005177231505513191,
+    "p_neutral": 0.03721565753221512,
+    "p_positive": 0.9576071500778198,
+    "sentiment_score": 0.9524299185723066,
+    "confidence": 0.9576071500778198
+  },
+  {
+    "news_id": 24,
+    "sentiment_label": "positive",
+    "p_negative": 0.025681111961603165,
+    "p_neutral": 0.11022311449050903,
+    "p_positive": 0.8640957474708557,
+    "sentiment_score": 0.8384146355092525,
+    "confidence": 0.8640957474708557
+  },
+  {
+    "news_id": 23,
+    "sentiment_label": "neutral",
+    "p_negative": 0.027599411085247993,
+    "p_neutral": 0.7819068431854248,
+    "p_positive": 0.19049376249313354,
+    "sentiment_score": 0.16289435140788555,
+    "confidence": 0.7819068431854248
+  },
+  {
+    "news_id": 200,
+    "sentiment_label": "neutral",
+    "p_negative": 0.06160356476902962,
+    "p_neutral": 0.7126725316047668,
+    "p_positive": 0.22572395205497742,
+    "sentiment_score": 0.1641203872859478,
+    "confidence": 0.7126725316047668
+  },
+  {
+    "news_id": 199,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006711050518788397,
+    "p_neutral": 0.004404374398291111,
+    "p_positive": 0.9949245452880859,
+    "sentiment_score": 0.9942534402362071,
+    "confidence": 0.9949245452880859
+  },
+  {
+    "news_id": 198,
+    "sentiment_label": "positive",
+    "p_negative": 0.003531926777213812,
+    "p_neutral": 0.02881467528641224,
+    "p_positive": 0.9676534533500671,
+    "sentiment_score": 0.9641215265728533,
+    "confidence": 0.9676534533500671
+  },
+  {
+    "news_id": 197,
+    "sentiment_label": "neutral",
+    "p_negative": 0.13171698153018951,
+    "p_neutral": 0.6338035464286804,
+    "p_positive": 0.2344793975353241,
+    "sentiment_score": 0.10276241600513458,
+    "confidence": 0.6338035464286804
+  },
+  {
+    "news_id": 196,
+    "sentiment_label": "neutral",
+    "p_negative": 0.12056438624858856,
+    "p_neutral": 0.5224558115005493,
+    "p_positive": 0.35697975754737854,
+    "sentiment_score": 0.23641537129878998,
+    "confidence": 0.5224558115005493
+  },
+  {
+    "news_id": 240,
+    "sentiment_label": "neutral",
+    "p_negative": 0.162622332572937,
+    "p_neutral": 0.4461112320423126,
+    "p_positive": 0.3912663459777832,
+    "sentiment_score": 0.2286440134048462,
+    "confidence": 0.4461112320423126
+  },
+  {
+    "news_id": 195,
+    "sentiment_label": "neutral",
+    "p_negative": 0.3471280634403229,
+    "p_neutral": 0.6018273830413818,
+    "p_positive": 0.05104455351829529,
+    "sentiment_score": -0.2960835099220276,
+    "confidence": 0.6018273830413818
+  },
+  {
+    "news_id": 194,
+    "sentiment_label": "positive",
+    "p_negative": 0.026401294395327568,
+    "p_neutral": 0.4122322201728821,
+    "p_positive": 0.5613665580749512,
+    "sentiment_score": 0.5349652636796236,
+    "confidence": 0.5613665580749512
+  },
+  {
+    "news_id": 193,
+    "sentiment_label": "positive",
+    "p_negative": 0.0053156474605202675,
+    "p_neutral": 0.021453386172652245,
+    "p_positive": 0.9732310175895691,
+    "sentiment_score": 0.9679153701290488,
+    "confidence": 0.9732310175895691
+  },
+  {
+    "news_id": 239,
+    "sentiment_label": "positive",
+    "p_negative": 0.002174943219870329,
+    "p_neutral": 0.01853969320654869,
+    "p_positive": 0.9792852997779846,
+    "sentiment_score": 0.9771103565581143,
+    "confidence": 0.9792852997779846
+  },
+  {
+    "news_id": 192,
+    "sentiment_label": "positive",
+    "p_negative": 0.0011485571740195155,
+    "p_neutral": 0.003908076789230108,
+    "p_positive": 0.9949433207511902,
+    "sentiment_score": 0.9937947635771707,
+    "confidence": 0.9949433207511902
+  },
+  {
+    "news_id": 191,
+    "sentiment_label": "positive",
+    "p_negative": 0.013678858987987041,
+    "p_neutral": 0.2862403392791748,
+    "p_positive": 0.7000807523727417,
+    "sentiment_score": 0.6864018933847547,
+    "confidence": 0.7000807523727417
+  },
+  {
+    "news_id": 190,
+    "sentiment_label": "positive",
+    "p_negative": 0.0013488123659044504,
+    "p_neutral": 0.0074044521898031235,
+    "p_positive": 0.99124675989151,
+    "sentiment_score": 0.9898979475256056,
+    "confidence": 0.99124675989151
+  },
+  {
+    "news_id": 189,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009630709537304938,
+    "p_neutral": 0.003221882041543722,
+    "p_positive": 0.995815098285675,
+    "sentiment_score": 0.9948520273319446,
+    "confidence": 0.995815098285675
+  },
+  {
+    "news_id": 188,
+    "sentiment_label": "neutral",
+    "p_negative": 0.044014401733875275,
+    "p_neutral": 0.8712638020515442,
+    "p_positive": 0.08472181856632233,
+    "sentiment_score": 0.04070741683244705,
+    "confidence": 0.8712638020515442
+  },
+  {
+    "news_id": 22,
+    "sentiment_label": "negative",
+    "p_negative": 0.8898851275444031,
+    "p_neutral": 0.10579707473516464,
+    "p_positive": 0.004317751154303551,
+    "sentiment_score": -0.8855673763900995,
+    "confidence": 0.8898851275444031
+  },
+  {
+    "news_id": 187,
+    "sentiment_label": "positive",
+    "p_negative": 0.006734785623848438,
+    "p_neutral": 0.044831451028585434,
+    "p_positive": 0.9484337568283081,
+    "sentiment_score": 0.9416989712044597,
+    "confidence": 0.9484337568283081
+  },
+  {
+    "news_id": 238,
+    "sentiment_label": "positive",
+    "p_negative": 0.0012122088810428977,
+    "p_neutral": 0.009532438591122627,
+    "p_positive": 0.9892553091049194,
+    "sentiment_score": 0.9880431002238765,
+    "confidence": 0.9892553091049194
+  },
+  {
+    "news_id": 186,
+    "sentiment_label": "positive",
+    "p_negative": 0.002756636356934905,
+    "p_neutral": 0.015767894685268402,
+    "p_positive": 0.9814754724502563,
+    "sentiment_score": 0.9787188360933214,
+    "confidence": 0.9814754724502563
+  },
+  {
+    "news_id": 21,
+    "sentiment_label": "positive",
+    "p_negative": 0.0500488206744194,
+    "p_neutral": 0.4406009614467621,
+    "p_positive": 0.5093502998352051,
+    "sentiment_score": 0.4593014791607857,
+    "confidence": 0.5093502998352051
+  },
+  {
+    "news_id": 185,
+    "sentiment_label": "negative",
+    "p_negative": 0.5848749279975891,
+    "p_neutral": 0.40074068307876587,
+    "p_positive": 0.014384426176548004,
+    "sentiment_score": -0.5704905018210411,
+    "confidence": 0.5848749279975891
+  },
+  {
+    "news_id": 184,
+    "sentiment_label": "positive",
+    "p_negative": 0.004709954839199781,
+    "p_neutral": 0.05722431465983391,
+    "p_positive": 0.938065767288208,
+    "sentiment_score": 0.9333558124490082,
+    "confidence": 0.938065767288208
+  },
+  {
+    "news_id": 183,
+    "sentiment_label": "positive",
+    "p_negative": 0.008074592798948288,
+    "p_neutral": 0.23946791887283325,
+    "p_positive": 0.7524575591087341,
+    "sentiment_score": 0.7443829663097858,
+    "confidence": 0.7524575591087341
+  },
+  {
+    "news_id": 237,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006456945557147264,
+    "p_neutral": 0.004903648514300585,
+    "p_positive": 0.9944506883621216,
+    "sentiment_score": 0.9938049938064069,
+    "confidence": 0.9944506883621216
+  },
+  {
+    "news_id": 236,
+    "sentiment_label": "positive",
+    "p_negative": 0.0046884301118552685,
+    "p_neutral": 0.2120363414287567,
+    "p_positive": 0.7832751870155334,
+    "sentiment_score": 0.7785867569036782,
+    "confidence": 0.7832751870155334
+  },
+  {
+    "news_id": 235,
+    "sentiment_label": "positive",
+    "p_negative": 0.002168663078919053,
+    "p_neutral": 0.01113289874047041,
+    "p_positive": 0.9866983890533447,
+    "sentiment_score": 0.9845297259744257,
+    "confidence": 0.9866983890533447
+  },
+  {
+    "news_id": 182,
+    "sentiment_label": "positive",
+    "p_negative": 0.006504099350422621,
+    "p_neutral": 0.034278757870197296,
+    "p_positive": 0.9592171311378479,
+    "sentiment_score": 0.9527130317874253,
+    "confidence": 0.9592171311378479
+  },
+  {
+    "news_id": 181,
+    "sentiment_label": "positive",
+    "p_negative": 0.00323655572719872,
+    "p_neutral": 0.016768641769886017,
+    "p_positive": 0.9799947142601013,
+    "sentiment_score": 0.9767581585329026,
+    "confidence": 0.9799947142601013
+  },
+  {
+    "news_id": 180,
+    "sentiment_label": "positive",
+    "p_negative": 0.003673496888950467,
+    "p_neutral": 0.022610099986195564,
+    "p_positive": 0.9737164378166199,
+    "sentiment_score": 0.9700429409276694,
+    "confidence": 0.9737164378166199
+  },
+  {
+    "news_id": 179,
+    "sentiment_label": "positive",
+    "p_negative": 0.001967875985428691,
+    "p_neutral": 0.007839865982532501,
+    "p_positive": 0.9901922941207886,
+    "sentiment_score": 0.9882244181353599,
+    "confidence": 0.9901922941207886
+  },
+  {
+    "news_id": 178,
+    "sentiment_label": "positive",
+    "p_negative": 0.0033087118063122034,
+    "p_neutral": 0.02118370309472084,
+    "p_positive": 0.9755075573921204,
+    "sentiment_score": 0.9721988455858082,
+    "confidence": 0.9755075573921204
+  },
+  {
+    "news_id": 177,
+    "sentiment_label": "neutral",
+    "p_negative": 0.06894277036190033,
+    "p_neutral": 0.7981995344161987,
+    "p_positive": 0.13285765051841736,
+    "sentiment_score": 0.06391488015651703,
+    "confidence": 0.7981995344161987
+  },
+  {
+    "news_id": 176,
+    "sentiment_label": "positive",
+    "p_negative": 0.0037938421592116356,
+    "p_neutral": 0.022482682019472122,
+    "p_positive": 0.9737234711647034,
+    "sentiment_score": 0.9699296290054917,
+    "confidence": 0.9737234711647034
+  },
+  {
+    "news_id": 175,
+    "sentiment_label": "positive",
+    "p_negative": 0.016388798132538795,
+    "p_neutral": 0.11895696073770523,
+    "p_positive": 0.8646542429924011,
+    "sentiment_score": 0.8482654448598623,
+    "confidence": 0.8646542429924011
+  },
+  {
+    "news_id": 234,
+    "sentiment_label": "positive",
+    "p_negative": 0.0029800788033753633,
+    "p_neutral": 0.018573898822069168,
+    "p_positive": 0.9784460067749023,
+    "sentiment_score": 0.975465927971527,
+    "confidence": 0.9784460067749023
+  },
+  {
+    "news_id": 20,
+    "sentiment_label": "neutral",
+    "p_negative": 0.28756028413772583,
+    "p_neutral": 0.6854734420776367,
+    "p_positive": 0.026966312900185585,
+    "sentiment_score": -0.26059397123754025,
+    "confidence": 0.6854734420776367
+  },
+  {
+    "news_id": 19,
+    "sentiment_label": "positive",
+    "p_negative": 0.0032494880724698305,
+    "p_neutral": 0.036052849143743515,
+    "p_positive": 0.9606976509094238,
+    "sentiment_score": 0.957448162836954,
+    "confidence": 0.9606976509094238
+  },
+  {
+    "news_id": 18,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004850858240388334,
+    "p_neutral": 0.004738863557577133,
+    "p_positive": 0.9947760105133057,
+    "sentiment_score": 0.9942909246892668,
+    "confidence": 0.9947760105133057
+  },
+  {
+    "news_id": 174,
+    "sentiment_label": "positive",
+    "p_negative": 0.04744933173060417,
+    "p_neutral": 0.4257793128490448,
+    "p_positive": 0.5267714262008667,
+    "sentiment_score": 0.4793220944702625,
+    "confidence": 0.5267714262008667
+  },
+  {
+    "news_id": 173,
+    "sentiment_label": "neutral",
+    "p_negative": 0.03544531390070915,
+    "p_neutral": 0.6235058307647705,
+    "p_positive": 0.34104886651039124,
+    "sentiment_score": 0.3056035526096821,
+    "confidence": 0.6235058307647705
+  },
+  {
+    "news_id": 172,
+    "sentiment_label": "positive",
+    "p_negative": 0.0032759984023869038,
+    "p_neutral": 0.014899715781211853,
+    "p_positive": 0.9818243384361267,
+    "sentiment_score": 0.9785483400337398,
+    "confidence": 0.9818243384361267
+  },
+  {
+    "news_id": 171,
+    "sentiment_label": "positive",
+    "p_negative": 0.023030925542116165,
+    "p_neutral": 0.23485904932022095,
+    "p_positive": 0.742110013961792,
+    "sentiment_score": 0.7190790884196758,
+    "confidence": 0.742110013961792
+  },
+  {
+    "news_id": 170,
+    "sentiment_label": "neutral",
+    "p_negative": 0.3476075232028961,
+    "p_neutral": 0.6287381649017334,
+    "p_positive": 0.023654334247112274,
+    "sentiment_score": -0.32395318895578384,
+    "confidence": 0.6287381649017334
+  },
+  {
+    "news_id": 17,
+    "sentiment_label": "positive",
+    "p_negative": 0.0026040568482130766,
+    "p_neutral": 0.011934032663702965,
+    "p_positive": 0.985461950302124,
+    "sentiment_score": 0.982857893453911,
+    "confidence": 0.985461950302124
+  },
+  {
+    "news_id": 169,
+    "sentiment_label": "positive",
+    "p_negative": 0.055807653814554214,
+    "p_neutral": 0.4295668601989746,
+    "p_positive": 0.5146255493164062,
+    "sentiment_score": 0.45881789550185204,
+    "confidence": 0.5146255493164062
+  },
+  {
+    "news_id": 168,
+    "sentiment_label": "positive",
+    "p_negative": 0.0051279254257678986,
+    "p_neutral": 0.04025113582611084,
+    "p_positive": 0.954620897769928,
+    "sentiment_score": 0.9494929723441601,
+    "confidence": 0.954620897769928
+  },
+  {
+    "news_id": 167,
+    "sentiment_label": "neutral",
+    "p_negative": 0.19244904816150665,
+    "p_neutral": 0.5995094180107117,
+    "p_positive": 0.20804159343242645,
+    "sentiment_score": 0.0155925452709198,
+    "confidence": 0.5995094180107117
+  },
+  {
+    "news_id": 166,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006839349516667426,
+    "p_neutral": 0.002271478995680809,
+    "p_positive": 0.9970446228981018,
+    "sentiment_score": 0.9963606879464351,
+    "confidence": 0.9970446228981018
+  },
+  {
+    "news_id": 16,
+    "sentiment_label": "neutral",
+    "p_negative": 0.15528173744678497,
+    "p_neutral": 0.7467526793479919,
+    "p_positive": 0.0979655534029007,
+    "sentiment_score": -0.05731618404388428,
+    "confidence": 0.7467526793479919
+  },
+  {
+    "news_id": 165,
+    "sentiment_label": "positive",
+    "p_negative": 0.0014641309389844537,
+    "p_neutral": 0.006636197213083506,
+    "p_positive": 0.9918997287750244,
+    "sentiment_score": 0.99043559783604,
+    "confidence": 0.9918997287750244
+  },
+  {
+    "news_id": 164,
+    "sentiment_label": "negative",
+    "p_negative": 0.5140916109085083,
+    "p_neutral": 0.47129639983177185,
+    "p_positive": 0.01461197342723608,
+    "sentiment_score": -0.4994796374812722,
+    "confidence": 0.5140916109085083
+  },
+  {
+    "news_id": 163,
+    "sentiment_label": "neutral",
+    "p_negative": 0.025420909747481346,
+    "p_neutral": 0.7053974270820618,
+    "p_positive": 0.26918166875839233,
+    "sentiment_score": 0.243760759010911,
+    "confidence": 0.7053974270820618
+  },
+  {
+    "news_id": 162,
+    "sentiment_label": "positive",
+    "p_negative": 0.00153063191100955,
+    "p_neutral": 0.012239906936883926,
+    "p_positive": 0.986229419708252,
+    "sentiment_score": 0.9846987877972424,
+    "confidence": 0.986229419708252
+  },
+  {
+    "news_id": 161,
+    "sentiment_label": "positive",
+    "p_negative": 0.0010629434837028384,
+    "p_neutral": 0.00746852857992053,
+    "p_positive": 0.9914685487747192,
+    "sentiment_score": 0.9904056052910164,
+    "confidence": 0.9914685487747192
+  },
+  {
+    "news_id": 160,
+    "sentiment_label": "positive",
+    "p_negative": 0.000841193541418761,
+    "p_neutral": 0.017227254807949066,
+    "p_positive": 0.9819315671920776,
+    "sentiment_score": 0.9810903736506589,
+    "confidence": 0.9819315671920776
+  },
+  {
+    "news_id": 159,
+    "sentiment_label": "positive",
+    "p_negative": 0.0005971881910227239,
+    "p_neutral": 0.0036304898094385862,
+    "p_positive": 0.9957723021507263,
+    "sentiment_score": 0.9951751139597036,
+    "confidence": 0.9957723021507263
+  },
+  {
+    "news_id": 158,
+    "sentiment_label": "positive",
+    "p_negative": 0.015065809711813927,
+    "p_neutral": 0.20704372227191925,
+    "p_positive": 0.7778905034065247,
+    "sentiment_score": 0.7628246936947107,
+    "confidence": 0.7778905034065247
+  },
+  {
+    "news_id": 157,
+    "sentiment_label": "positive",
+    "p_negative": 0.0030644929502159357,
+    "p_neutral": 0.010845351964235306,
+    "p_positive": 0.9860901832580566,
+    "sentiment_score": 0.9830256903078407,
+    "confidence": 0.9860901832580566
+  },
+  {
+    "news_id": 156,
+    "sentiment_label": "positive",
+    "p_negative": 0.003549502929672599,
+    "p_neutral": 0.014487061649560928,
+    "p_positive": 0.9819633960723877,
+    "sentiment_score": 0.9784138931427151,
+    "confidence": 0.9819633960723877
+  },
+  {
+    "news_id": 155,
+    "sentiment_label": "positive",
+    "p_negative": 0.010057209990918636,
+    "p_neutral": 0.2505878806114197,
+    "p_positive": 0.7393548488616943,
+    "sentiment_score": 0.7292976388707757,
+    "confidence": 0.7393548488616943
+  },
+  {
+    "news_id": 154,
+    "sentiment_label": "positive",
+    "p_negative": 0.010249732993543148,
+    "p_neutral": 0.38353481888771057,
+    "p_positive": 0.6062154173851013,
+    "sentiment_score": 0.5959656843915582,
+    "confidence": 0.6062154173851013
+  },
+  {
+    "news_id": 153,
+    "sentiment_label": "neutral",
+    "p_negative": 0.20759901404380798,
+    "p_neutral": 0.6812259554862976,
+    "p_positive": 0.11117501556873322,
+    "sentiment_score": -0.09642399847507477,
+    "confidence": 0.6812259554862976
+  },
+  {
+    "news_id": 152,
+    "sentiment_label": "positive",
+    "p_negative": 0.00935269519686699,
+    "p_neutral": 0.05140092596411705,
+    "p_positive": 0.9392462968826294,
+    "sentiment_score": 0.9298936016857624,
+    "confidence": 0.9392462968826294
+  },
+  {
+    "news_id": 151,
+    "sentiment_label": "positive",
+    "p_negative": 0.00045865081483498216,
+    "p_neutral": 0.006561350543051958,
+    "p_positive": 0.9929800629615784,
+    "sentiment_score": 0.9925214121467434,
+    "confidence": 0.9929800629615784
+  },
+  {
+    "news_id": 233,
+    "sentiment_label": "positive",
+    "p_negative": 0.005930816754698753,
+    "p_neutral": 0.05606989562511444,
+    "p_positive": 0.9379992485046387,
+    "sentiment_score": 0.9320684317499399,
+    "confidence": 0.9379992485046387
+  },
+  {
+    "news_id": 232,
+    "sentiment_label": "positive",
+    "p_negative": 0.043877266347408295,
+    "p_neutral": 0.20275524258613586,
+    "p_positive": 0.7533674836158752,
+    "sentiment_score": 0.709490217268467,
+    "confidence": 0.7533674836158752
+  },
+  {
+    "news_id": 231,
+    "sentiment_label": "positive",
+    "p_negative": 0.006496279034763575,
+    "p_neutral": 0.048352885991334915,
+    "p_positive": 0.9451508522033691,
+    "sentiment_score": 0.9386545731686056,
+    "confidence": 0.9451508522033691
+  },
+  {
+    "news_id": 230,
+    "sentiment_label": "positive",
+    "p_negative": 0.06941043585538864,
+    "p_neutral": 0.4004339575767517,
+    "p_positive": 0.5301555395126343,
+    "sentiment_score": 0.46074510365724564,
+    "confidence": 0.5301555395126343
+  },
+  {
+    "news_id": 150,
+    "sentiment_label": "positive",
+    "p_negative": 0.04494456946849823,
+    "p_neutral": 0.141193225979805,
+    "p_positive": 0.8138622045516968,
+    "sentiment_score": 0.7689176350831985,
+    "confidence": 0.8138622045516968
+  },
+  {
+    "news_id": 149,
+    "sentiment_label": "positive",
+    "p_negative": 0.0008553153020329773,
+    "p_neutral": 0.003743377747014165,
+    "p_positive": 0.9954012632369995,
+    "sentiment_score": 0.9945459479349665,
+    "confidence": 0.9954012632369995
+  },
+  {
+    "news_id": 148,
+    "sentiment_label": "neutral",
+    "p_negative": 0.24421200156211853,
+    "p_neutral": 0.6275824904441833,
+    "p_positive": 0.1282055675983429,
+    "sentiment_score": -0.11600643396377563,
+    "confidence": 0.6275824904441833
+  },
+  {
+    "news_id": 147,
+    "sentiment_label": "positive",
+    "p_negative": 0.002559198532253504,
+    "p_neutral": 0.04516647011041641,
+    "p_positive": 0.9522742629051208,
+    "sentiment_score": 0.9497150643728673,
+    "confidence": 0.9522742629051208
+  },
+  {
+    "news_id": 146,
+    "sentiment_label": "neutral",
+    "p_negative": 0.18199171125888824,
+    "p_neutral": 0.7168718576431274,
+    "p_positive": 0.10113642364740372,
+    "sentiment_score": -0.08085528761148453,
+    "confidence": 0.7168718576431274
+  },
+  {
+    "news_id": 145,
+    "sentiment_label": "neutral",
+    "p_negative": 0.02841019816696644,
+    "p_neutral": 0.8414774537086487,
+    "p_positive": 0.13011229038238525,
+    "sentiment_score": 0.10170209221541882,
+    "confidence": 0.8414774537086487
+  },
+  {
+    "news_id": 144,
+    "sentiment_label": "positive",
+    "p_negative": 0.018025079742074013,
+    "p_neutral": 0.06875757873058319,
+    "p_positive": 0.913217306137085,
+    "sentiment_score": 0.895192226395011,
+    "confidence": 0.913217306137085
+  },
+  {
+    "news_id": 229,
+    "sentiment_label": "positive",
+    "p_negative": 0.13361799716949463,
+    "p_neutral": 0.3948131799697876,
+    "p_positive": 0.47156885266304016,
+    "sentiment_score": 0.33795085549354553,
+    "confidence": 0.47156885266304016
+  },
+  {
+    "news_id": 143,
+    "sentiment_label": "positive",
+    "p_negative": 0.005704701412469149,
+    "p_neutral": 0.037004031240940094,
+    "p_positive": 0.9572912454605103,
+    "sentiment_score": 0.9515865440480411,
+    "confidence": 0.9572912454605103
+  },
+  {
+    "news_id": 142,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006485929479822516,
+    "p_neutral": 0.007061811164021492,
+    "p_positive": 0.9922896027565002,
+    "sentiment_score": 0.991641009808518,
+    "confidence": 0.9922896027565002
+  },
+  {
+    "news_id": 141,
+    "sentiment_label": "positive",
+    "p_negative": 0.0017069743480533361,
+    "p_neutral": 0.009622251614928246,
+    "p_positive": 0.988670825958252,
+    "sentiment_score": 0.9869638516101986,
+    "confidence": 0.988670825958252
+  },
+  {
+    "news_id": 140,
+    "sentiment_label": "negative",
+    "p_negative": 0.579659104347229,
+    "p_neutral": 0.3113234043121338,
+    "p_positive": 0.10901749134063721,
+    "sentiment_score": -0.4706416130065918,
+    "confidence": 0.579659104347229
+  },
+  {
+    "news_id": 228,
+    "sentiment_label": "negative",
+    "p_negative": 0.6365600228309631,
+    "p_neutral": 0.33211079239845276,
+    "p_positive": 0.03132927790284157,
+    "sentiment_score": -0.6052307449281216,
+    "confidence": 0.6365600228309631
+  },
+  {
+    "news_id": 139,
+    "sentiment_label": "positive",
+    "p_negative": 0.0011274657445028424,
+    "p_neutral": 0.0063681285828351974,
+    "p_positive": 0.9925044775009155,
+    "sentiment_score": 0.9913770117564127,
+    "confidence": 0.9925044775009155
+  },
+  {
+    "news_id": 138,
+    "sentiment_label": "positive",
+    "p_negative": 0.001777050318196416,
+    "p_neutral": 0.014266649261116982,
+    "p_positive": 0.9839562773704529,
+    "sentiment_score": 0.9821792270522565,
+    "confidence": 0.9839562773704529
+  },
+  {
+    "news_id": 137,
+    "sentiment_label": "positive",
+    "p_negative": 0.0016627466538920999,
+    "p_neutral": 0.008750776760280132,
+    "p_positive": 0.9895864725112915,
+    "sentiment_score": 0.9879237258573994,
+    "confidence": 0.9895864725112915
+  },
+  {
+    "news_id": 136,
+    "sentiment_label": "neutral",
+    "p_negative": 0.043836649507284164,
+    "p_neutral": 0.4829689860343933,
+    "p_positive": 0.4731943905353546,
+    "sentiment_score": 0.42935774102807045,
+    "confidence": 0.4829689860343933
+  },
+  {
+    "news_id": 135,
+    "sentiment_label": "neutral",
+    "p_negative": 0.07098066061735153,
+    "p_neutral": 0.664434552192688,
+    "p_positive": 0.2645847797393799,
+    "sentiment_score": 0.19360411912202835,
+    "confidence": 0.664434552192688
+  },
+  {
+    "news_id": 134,
+    "sentiment_label": "positive",
+    "p_negative": 0.0002937660610768944,
+    "p_neutral": 0.0034347963519394398,
+    "p_positive": 0.9962713718414307,
+    "sentiment_score": 0.9959776057803538,
+    "confidence": 0.9962713718414307
+  },
+  {
+    "news_id": 133,
+    "sentiment_label": "positive",
+    "p_negative": 0.0068889036774635315,
+    "p_neutral": 0.08182848989963531,
+    "p_positive": 0.9112825989723206,
+    "sentiment_score": 0.904393695294857,
+    "confidence": 0.9112825989723206
+  },
+  {
+    "news_id": 132,
+    "sentiment_label": "positive",
+    "p_negative": 0.004842658527195454,
+    "p_neutral": 0.021968943998217583,
+    "p_positive": 0.9731884598731995,
+    "sentiment_score": 0.968345801346004,
+    "confidence": 0.9731884598731995
+  },
+  {
+    "news_id": 131,
+    "sentiment_label": "positive",
+    "p_negative": 0.01923142373561859,
+    "p_neutral": 0.07057828456163406,
+    "p_positive": 0.9101903438568115,
+    "sentiment_score": 0.8909589201211929,
+    "confidence": 0.9101903438568115
+  },
+  {
+    "news_id": 130,
+    "sentiment_label": "positive",
+    "p_negative": 0.0031085393857210875,
+    "p_neutral": 0.047218866646289825,
+    "p_positive": 0.9496725797653198,
+    "sentiment_score": 0.9465640403795987,
+    "confidence": 0.9496725797653198
+  },
+  {
+    "news_id": 129,
+    "sentiment_label": "positive",
+    "p_negative": 0.008432646282017231,
+    "p_neutral": 0.27466046810150146,
+    "p_positive": 0.7169069051742554,
+    "sentiment_score": 0.7084742588922381,
+    "confidence": 0.7169069051742554
+  },
+  {
+    "news_id": 128,
+    "sentiment_label": "positive",
+    "p_negative": 0.010126950219273567,
+    "p_neutral": 0.14861179888248444,
+    "p_positive": 0.8412612676620483,
+    "sentiment_score": 0.8311343174427748,
+    "confidence": 0.8412612676620483
+  },
+  {
+    "news_id": 127,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009840448619797826,
+    "p_neutral": 0.017800569534301758,
+    "p_positive": 0.9812154173851013,
+    "sentiment_score": 0.9802313725231215,
+    "confidence": 0.9812154173851013
+  },
+  {
+    "news_id": 126,
+    "sentiment_label": "neutral",
+    "p_negative": 0.11181586235761642,
+    "p_neutral": 0.7819918990135193,
+    "p_positive": 0.10619217157363892,
+    "sentiment_score": -0.0056236907839775085,
+    "confidence": 0.7819918990135193
+  },
+  {
+    "news_id": 15,
+    "sentiment_label": "positive",
+    "p_negative": 0.002612399635836482,
+    "p_neutral": 0.030496705323457718,
+    "p_positive": 0.9668908715248108,
+    "sentiment_score": 0.9642784718889743,
+    "confidence": 0.9668908715248108
+  },
+  {
+    "news_id": 14,
+    "sentiment_label": "positive",
+    "p_negative": 0.008191617205739021,
+    "p_neutral": 0.0896461009979248,
+    "p_positive": 0.9021622538566589,
+    "sentiment_score": 0.8939706366509199,
+    "confidence": 0.9021622538566589
+  },
+  {
+    "news_id": 13,
+    "sentiment_label": "positive",
+    "p_negative": 0.027313757687807083,
+    "p_neutral": 0.48038798570632935,
+    "p_positive": 0.49229827523231506,
+    "sentiment_score": 0.464984517544508,
+    "confidence": 0.49229827523231506
+  },
+  {
+    "news_id": 12,
+    "sentiment_label": "positive",
+    "p_negative": 0.01992906630039215,
+    "p_neutral": 0.12649860978126526,
+    "p_positive": 0.8535723090171814,
+    "sentiment_score": 0.8336432427167892,
+    "confidence": 0.8535723090171814
+  },
+  {
+    "news_id": 125,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009719632216729224,
+    "p_neutral": 0.007501122076064348,
+    "p_positive": 0.9915269017219543,
+    "sentiment_score": 0.9905549385002814,
+    "confidence": 0.9915269017219543
+  },
+  {
+    "news_id": 124,
+    "sentiment_label": "positive",
+    "p_negative": 0.0005716804298572242,
+    "p_neutral": 0.00282100448384881,
+    "p_positive": 0.9966073036193848,
+    "sentiment_score": 0.9960356231895275,
+    "confidence": 0.9966073036193848
+  },
+  {
+    "news_id": 123,
+    "sentiment_label": "positive",
+    "p_negative": 0.00279608485288918,
+    "p_neutral": 0.07166381180286407,
+    "p_positive": 0.9255401492118835,
+    "sentiment_score": 0.9227440643589944,
+    "confidence": 0.9255401492118835
+  },
+  {
+    "news_id": 122,
+    "sentiment_label": "positive",
+    "p_negative": 0.001208981848321855,
+    "p_neutral": 0.005300186574459076,
+    "p_positive": 0.9934908151626587,
+    "sentiment_score": 0.9922818333143368,
+    "confidence": 0.9934908151626587
+  },
+  {
+    "news_id": 121,
+    "sentiment_label": "positive",
+    "p_negative": 0.04945458099246025,
+    "p_neutral": 0.463194876909256,
+    "p_positive": 0.48735055327415466,
+    "sentiment_score": 0.4378959722816944,
+    "confidence": 0.48735055327415466
+  },
+  {
+    "news_id": 120,
+    "sentiment_label": "positive",
+    "p_negative": 0.000634650350548327,
+    "p_neutral": 0.0028715934604406357,
+    "p_positive": 0.9964937567710876,
+    "sentiment_score": 0.9958591064205393,
+    "confidence": 0.9964937567710876
+  },
+  {
+    "news_id": 119,
+    "sentiment_label": "positive",
+    "p_negative": 0.009882108308374882,
+    "p_neutral": 0.08320850133895874,
+    "p_positive": 0.9069094061851501,
+    "sentiment_score": 0.8970272978767753,
+    "confidence": 0.9069094061851501
+  },
+  {
+    "news_id": 118,
+    "sentiment_label": "positive",
+    "p_negative": 0.0014116319362074137,
+    "p_neutral": 0.0072232140228152275,
+    "p_positive": 0.9913651943206787,
+    "sentiment_score": 0.9899535623844713,
+    "confidence": 0.9913651943206787
+  },
+  {
+    "news_id": 117,
+    "sentiment_label": "positive",
+    "p_negative": 0.016361141577363014,
+    "p_neutral": 0.20956699550151825,
+    "p_positive": 0.7740719318389893,
+    "sentiment_score": 0.7577107902616262,
+    "confidence": 0.7740719318389893
+  },
+  {
+    "news_id": 116,
+    "sentiment_label": "positive",
+    "p_negative": 0.0026990417391061783,
+    "p_neutral": 0.01905970834195614,
+    "p_positive": 0.9782412052154541,
+    "sentiment_score": 0.9755421634763479,
+    "confidence": 0.9782412052154541
+  },
+  {
+    "news_id": 11,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004414907598402351,
+    "p_neutral": 0.002288715448230505,
+    "p_positive": 0.9972698092460632,
+    "sentiment_score": 0.996828318486223,
+    "confidence": 0.9972698092460632
+  },
+  {
+    "news_id": 115,
+    "sentiment_label": "positive",
+    "p_negative": 0.05383571609854698,
+    "p_neutral": 0.43413257598876953,
+    "p_positive": 0.5120317339897156,
+    "sentiment_score": 0.4581960178911686,
+    "confidence": 0.5120317339897156
+  },
+  {
+    "news_id": 303,
+    "sentiment_label": "positive",
+    "p_negative": 0.001995302503928542,
+    "p_neutral": 0.012177170254290104,
+    "p_positive": 0.9858275651931763,
+    "sentiment_score": 0.9838322626892477,
+    "confidence": 0.9858275651931763
+  },
+  {
+    "news_id": 302,
+    "sentiment_label": "neutral",
+    "p_negative": 0.1801830679178238,
+    "p_neutral": 0.6368120908737183,
+    "p_positive": 0.18300484120845795,
+    "sentiment_score": 0.0028217732906341553,
+    "confidence": 0.6368120908737183
+  },
+  {
+    "news_id": 114,
+    "sentiment_label": "positive",
+    "p_negative": 0.0005754290032200515,
+    "p_neutral": 0.0029572381172329187,
+    "p_positive": 0.9964673519134521,
+    "sentiment_score": 0.9958919229102321,
+    "confidence": 0.9964673519134521
+  },
+  {
+    "news_id": 113,
+    "sentiment_label": "positive",
+    "p_negative": 0.0074484460055828094,
+    "p_neutral": 0.045423977077007294,
+    "p_positive": 0.947127640247345,
+    "sentiment_score": 0.9396791942417622,
+    "confidence": 0.947127640247345
+  },
+  {
+    "news_id": 112,
+    "sentiment_label": "positive",
+    "p_negative": 0.0014471594477072358,
+    "p_neutral": 0.01190953515470028,
+    "p_positive": 0.9866433143615723,
+    "sentiment_score": 0.985196154913865,
+    "confidence": 0.9866433143615723
+  },
+  {
+    "news_id": 111,
+    "sentiment_label": "neutral",
+    "p_negative": 0.2377140372991562,
+    "p_neutral": 0.6272718906402588,
+    "p_positive": 0.13501408696174622,
+    "sentiment_score": -0.10269995033740997,
+    "confidence": 0.6272718906402588
+  },
+  {
+    "news_id": 110,
+    "sentiment_label": "positive",
+    "p_negative": 0.004208428785204887,
+    "p_neutral": 0.19737876951694489,
+    "p_positive": 0.7984127998352051,
+    "sentiment_score": 0.7942043710500002,
+    "confidence": 0.7984127998352051
+  },
+  {
+    "news_id": 109,
+    "sentiment_label": "neutral",
+    "p_negative": 0.27461448311805725,
+    "p_neutral": 0.6033865213394165,
+    "p_positive": 0.12199892848730087,
+    "sentiment_score": -0.15261555463075638,
+    "confidence": 0.6033865213394165
+  },
+  {
+    "news_id": 10,
+    "sentiment_label": "positive",
+    "p_negative": 0.05841267853975296,
+    "p_neutral": 0.34608331322669983,
+    "p_positive": 0.5955039858818054,
+    "sentiment_score": 0.5370913073420525,
+    "confidence": 0.5955039858818054
+  },
+  {
+    "news_id": 265,
+    "sentiment_label": "positive",
+    "p_negative": 0.0036734503228217363,
+    "p_neutral": 0.044689178466796875,
+    "p_positive": 0.951637327671051,
+    "sentiment_score": 0.9479638773482293,
+    "confidence": 0.951637327671051
+  },
+  {
+    "news_id": 108,
+    "sentiment_label": "neutral",
+    "p_negative": 0.18592332303524017,
+    "p_neutral": 0.7635397911071777,
+    "p_positive": 0.05053689703345299,
+    "sentiment_score": -0.13538642600178719,
+    "confidence": 0.7635397911071777
+  },
+  {
+    "news_id": 264,
+    "sentiment_label": "positive",
+    "p_negative": 0.013571623712778091,
+    "p_neutral": 0.25089383125305176,
+    "p_positive": 0.7355346083641052,
+    "sentiment_score": 0.7219629846513271,
+    "confidence": 0.7355346083641052
+  },
+  {
+    "news_id": 301,
+    "sentiment_label": "positive",
+    "p_negative": 0.03771361708641052,
+    "p_neutral": 0.31919121742248535,
+    "p_positive": 0.6430951952934265,
+    "sentiment_score": 0.605381578207016,
+    "confidence": 0.6430951952934265
+  },
+  {
+    "news_id": 107,
+    "sentiment_label": "neutral",
+    "p_negative": 0.32226911187171936,
+    "p_neutral": 0.6247447729110718,
+    "p_positive": 0.05298611521720886,
+    "sentiment_score": -0.2692829966545105,
+    "confidence": 0.6247447729110718
+  },
+  {
+    "news_id": 300,
+    "sentiment_label": "neutral",
+    "p_negative": 0.06832654774188995,
+    "p_neutral": 0.6611730456352234,
+    "p_positive": 0.27050045132637024,
+    "sentiment_score": 0.20217390358448029,
+    "confidence": 0.6611730456352234
+  },
+  {
+    "news_id": 106,
+    "sentiment_label": "positive",
+    "p_negative": 0.0026437104679644108,
+    "p_neutral": 0.01942334696650505,
+    "p_positive": 0.9779329299926758,
+    "sentiment_score": 0.9752892195247114,
+    "confidence": 0.9779329299926758
+  },
+  {
+    "news_id": 105,
+    "sentiment_label": "neutral",
+    "p_negative": 0.18362374603748322,
+    "p_neutral": 0.7777791023254395,
+    "p_positive": 0.03859717398881912,
+    "sentiment_score": -0.1450265720486641,
+    "confidence": 0.7777791023254395
+  },
+  {
+    "news_id": 299,
+    "sentiment_label": "positive",
+    "p_negative": 0.0011480051325634122,
+    "p_neutral": 0.013262897729873657,
+    "p_positive": 0.9855890870094299,
+    "sentiment_score": 0.9844410818768665,
+    "confidence": 0.9855890870094299
+  },
+  {
+    "news_id": 104,
+    "sentiment_label": "positive",
+    "p_negative": 0.001667357748374343,
+    "p_neutral": 0.015731101855635643,
+    "p_positive": 0.982601523399353,
+    "sentiment_score": 0.9809341656509787,
+    "confidence": 0.982601523399353
+  },
+  {
+    "news_id": 297,
+    "sentiment_label": "positive",
+    "p_negative": 0.0015696585178375244,
+    "p_neutral": 0.010823115706443787,
+    "p_positive": 0.9876071810722351,
+    "sentiment_score": 0.9860375225543976,
+    "confidence": 0.9876071810722351
+  },
+  {
+    "news_id": 263,
+    "sentiment_label": "positive",
+    "p_negative": 0.001413565594702959,
+    "p_neutral": 0.014329635538160801,
+    "p_positive": 0.9842568039894104,
+    "sentiment_score": 0.9828432383947074,
+    "confidence": 0.9842568039894104
+  },
+  {
+    "news_id": 296,
+    "sentiment_label": "neutral",
+    "p_negative": 0.11399491876363754,
+    "p_neutral": 0.5605064034461975,
+    "p_positive": 0.3254987597465515,
+    "sentiment_score": 0.21150384098291397,
+    "confidence": 0.5605064034461975
+  },
+  {
+    "news_id": 227,
+    "sentiment_label": "positive",
+    "p_negative": 0.008092157542705536,
+    "p_neutral": 0.07222691178321838,
+    "p_positive": 0.9196808934211731,
+    "sentiment_score": 0.9115887358784676,
+    "confidence": 0.9196808934211731
+  },
+  {
+    "news_id": 103,
+    "sentiment_label": "positive",
+    "p_negative": 0.0943780168890953,
+    "p_neutral": 0.4196328818798065,
+    "p_positive": 0.48598915338516235,
+    "sentiment_score": 0.39161113649606705,
+    "confidence": 0.48598915338516235
+  },
+  {
+    "news_id": 295,
+    "sentiment_label": "positive",
+    "p_negative": 0.007740424480289221,
+    "p_neutral": 0.24324536323547363,
+    "p_positive": 0.749014139175415,
+    "sentiment_score": 0.7412737146951258,
+    "confidence": 0.749014139175415
+  },
+  {
+    "news_id": 102,
+    "sentiment_label": "neutral",
+    "p_negative": 0.07105904817581177,
+    "p_neutral": 0.4814486503601074,
+    "p_positive": 0.4474923312664032,
+    "sentiment_score": 0.37643328309059143,
+    "confidence": 0.4814486503601074
+  },
+  {
+    "news_id": 294,
+    "sentiment_label": "positive",
+    "p_negative": 0.006416946649551392,
+    "p_neutral": 0.07231967151165009,
+    "p_positive": 0.9212633967399597,
+    "sentiment_score": 0.9148464500904083,
+    "confidence": 0.9212633967399597
+  },
+  {
+    "news_id": 101,
+    "sentiment_label": "positive",
+    "p_negative": 0.001485759625211358,
+    "p_neutral": 0.018649477511644363,
+    "p_positive": 0.9798648357391357,
+    "sentiment_score": 0.9783790761139244,
+    "confidence": 0.9798648357391357
+  },
+  {
+    "news_id": 100,
+    "sentiment_label": "positive",
+    "p_negative": 0.0022193300537765026,
+    "p_neutral": 0.017501113936305046,
+    "p_positive": 0.9802795648574829,
+    "sentiment_score": 0.9780602348037064,
+    "confidence": 0.9802795648574829
+  },
+  {
+    "news_id": 99,
+    "sentiment_label": "neutral",
+    "p_negative": 0.14891183376312256,
+    "p_neutral": 0.728421688079834,
+    "p_positive": 0.12266652286052704,
+    "sentiment_score": -0.02624531090259552,
+    "confidence": 0.728421688079834
+  },
+  {
+    "news_id": 293,
+    "sentiment_label": "positive",
+    "p_negative": 0.01716441847383976,
+    "p_neutral": 0.16232801973819733,
+    "p_positive": 0.8205075263977051,
+    "sentiment_score": 0.8033431079238653,
+    "confidence": 0.8205075263977051
+  },
+  {
+    "news_id": 292,
+    "sentiment_label": "positive",
+    "p_negative": 0.0013031247071921825,
+    "p_neutral": 0.008604101836681366,
+    "p_positive": 0.9900928139686584,
+    "sentiment_score": 0.9887896892614663,
+    "confidence": 0.9900928139686584
+  },
+  {
+    "news_id": 98,
+    "sentiment_label": "positive",
+    "p_negative": 0.03612735494971275,
+    "p_neutral": 0.40328118205070496,
+    "p_positive": 0.5605913996696472,
+    "sentiment_score": 0.5244640447199345,
+    "confidence": 0.5605913996696472
+  },
+  {
+    "news_id": 97,
+    "sentiment_label": "neutral",
+    "p_negative": 0.18023400008678436,
+    "p_neutral": 0.7662767171859741,
+    "p_positive": 0.0534893162548542,
+    "sentiment_score": -0.12674468383193016,
+    "confidence": 0.7662767171859741
+  },
+  {
+    "news_id": 96,
+    "sentiment_label": "positive",
+    "p_negative": 0.04249048978090286,
+    "p_neutral": 0.209359809756279,
+    "p_positive": 0.7481497526168823,
+    "sentiment_score": 0.7056592628359795,
+    "confidence": 0.7481497526168823
+  },
+  {
+    "news_id": 291,
+    "sentiment_label": "positive",
+    "p_negative": 0.04208206385374069,
+    "p_neutral": 0.3413255214691162,
+    "p_positive": 0.6165924072265625,
+    "sentiment_score": 0.5745103433728218,
+    "confidence": 0.6165924072265625
+  },
+  {
+    "news_id": 290,
+    "sentiment_label": "positive",
+    "p_negative": 0.0005144432652741671,
+    "p_neutral": 0.007524440065026283,
+    "p_positive": 0.9919610619544983,
+    "sentiment_score": 0.9914466186892241,
+    "confidence": 0.9919610619544983
+  },
+  {
+    "news_id": 289,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006332704797387123,
+    "p_neutral": 0.006293336860835552,
+    "p_positive": 0.9930734038352966,
+    "sentiment_score": 0.9924401333555579,
+    "confidence": 0.9930734038352966
+  },
+  {
+    "news_id": 95,
+    "sentiment_label": "positive",
+    "p_negative": 0.0012739908415824175,
+    "p_neutral": 0.006468483712524176,
+    "p_positive": 0.9922575950622559,
+    "sentiment_score": 0.9909836042206734,
+    "confidence": 0.9922575950622559
+  },
+  {
+    "news_id": 262,
+    "sentiment_label": "positive",
+    "p_negative": 0.0013514648890122771,
+    "p_neutral": 0.007741904351860285,
+    "p_positive": 0.9909065961837769,
+    "sentiment_score": 0.9895551312947646,
+    "confidence": 0.9909065961837769
+  },
+  {
+    "news_id": 94,
+    "sentiment_label": "positive",
+    "p_negative": 0.0015917596174404025,
+    "p_neutral": 0.007383992429822683,
+    "p_positive": 0.9910242557525635,
+    "sentiment_score": 0.9894324961351231,
+    "confidence": 0.9910242557525635
+  },
+  {
+    "news_id": 261,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006338403909467161,
+    "p_neutral": 0.009224096313118935,
+    "p_positive": 0.9901420474052429,
+    "sentiment_score": 0.9895082070142962,
+    "confidence": 0.9901420474052429
+  },
+  {
+    "news_id": 93,
+    "sentiment_label": "neutral",
+    "p_negative": 0.12410526722669601,
+    "p_neutral": 0.7829993367195129,
+    "p_positive": 0.09289538860321045,
+    "sentiment_score": -0.031209878623485565,
+    "confidence": 0.7829993367195129
+  },
+  {
+    "news_id": 92,
+    "sentiment_label": "positive",
+    "p_negative": 0.012311463244259357,
+    "p_neutral": 0.059284672141075134,
+    "p_positive": 0.9284038543701172,
+    "sentiment_score": 0.9160923911258578,
+    "confidence": 0.9284038543701172
+  },
+  {
+    "news_id": 288,
+    "sentiment_label": "positive",
+    "p_negative": 0.009774458594620228,
+    "p_neutral": 0.08416003733873367,
+    "p_positive": 0.9060654640197754,
+    "sentiment_score": 0.8962910054251552,
+    "confidence": 0.9060654640197754
+  },
+  {
+    "news_id": 91,
+    "sentiment_label": "positive",
+    "p_negative": 0.0030673863366246223,
+    "p_neutral": 0.010570959188044071,
+    "p_positive": 0.9863616228103638,
+    "sentiment_score": 0.9832942364737391,
+    "confidence": 0.9863616228103638
+  },
+  {
+    "news_id": 90,
+    "sentiment_label": "negative",
+    "p_negative": 0.8793066143989563,
+    "p_neutral": 0.11191684752702713,
+    "p_positive": 0.008776502683758736,
+    "sentiment_score": -0.8705301117151976,
+    "confidence": 0.8793066143989563
+  },
+  {
+    "news_id": 287,
+    "sentiment_label": "positive",
+    "p_negative": 0.0041789342649281025,
+    "p_neutral": 0.045049648731946945,
+    "p_positive": 0.9507714509963989,
+    "sentiment_score": 0.9465925167314708,
+    "confidence": 0.9507714509963989
+  },
+  {
+    "news_id": 89,
+    "sentiment_label": "positive",
+    "p_negative": 0.0027147061191499233,
+    "p_neutral": 0.015831902623176575,
+    "p_positive": 0.9814534187316895,
+    "sentiment_score": 0.9787387126125395,
+    "confidence": 0.9814534187316895
+  },
+  {
+    "news_id": 88,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009387625614181161,
+    "p_neutral": 0.004895729478448629,
+    "p_positive": 0.9941655397415161,
+    "sentiment_score": 0.993226777180098,
+    "confidence": 0.9941655397415161
+  },
+  {
+    "news_id": 87,
+    "sentiment_label": "positive",
+    "p_negative": 0.00699427118524909,
+    "p_neutral": 0.14653083682060242,
+    "p_positive": 0.846474826335907,
+    "sentiment_score": 0.8394805551506579,
+    "confidence": 0.846474826335907
+  },
+  {
+    "news_id": 86,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009495303966104984,
+    "p_neutral": 0.011252830736339092,
+    "p_positive": 0.9877976775169373,
+    "sentiment_score": 0.9868481471203268,
+    "confidence": 0.9877976775169373
+  },
+  {
+    "news_id": 85,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009940643794834614,
+    "p_neutral": 0.013240554369986057,
+    "p_positive": 0.9857653975486755,
+    "sentiment_score": 0.9847713331691921,
+    "confidence": 0.9857653975486755
+  },
+  {
+    "news_id": 84,
+    "sentiment_label": "positive",
+    "p_negative": 0.04489053040742874,
+    "p_neutral": 0.3687087595462799,
+    "p_positive": 0.5864007472991943,
+    "sentiment_score": 0.5415102168917656,
+    "confidence": 0.5864007472991943
+  },
+  {
+    "news_id": 83,
+    "sentiment_label": "positive",
+    "p_negative": 0.001379595953039825,
+    "p_neutral": 0.008285047486424446,
+    "p_positive": 0.9903353452682495,
+    "sentiment_score": 0.9889557493152097,
+    "confidence": 0.9903353452682495
+  },
+  {
+    "news_id": 82,
+    "sentiment_label": "positive",
+    "p_negative": 0.002655673073604703,
+    "p_neutral": 0.02390562929213047,
+    "p_positive": 0.9734386801719666,
+    "sentiment_score": 0.9707830070983618,
+    "confidence": 0.9734386801719666
+  },
+  {
+    "news_id": 260,
+    "sentiment_label": "positive",
+    "p_negative": 0.000347483524819836,
+    "p_neutral": 0.0018884516321122646,
+    "p_positive": 0.9977641105651855,
+    "sentiment_score": 0.9974166270403657,
+    "confidence": 0.9977641105651855
+  },
+  {
+    "news_id": 81,
+    "sentiment_label": "positive",
+    "p_negative": 0.0007873637368902564,
+    "p_neutral": 0.008518125861883163,
+    "p_positive": 0.990694522857666,
+    "sentiment_score": 0.9899071591207758,
+    "confidence": 0.990694522857666
+  },
+  {
+    "news_id": 259,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004576491774059832,
+    "p_neutral": 0.0015757015207782388,
+    "p_positive": 0.9979666471481323,
+    "sentiment_score": 0.9975089979707263,
+    "confidence": 0.9979666471481323
+  },
+  {
+    "news_id": 258,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004492542939260602,
+    "p_neutral": 0.001591397332958877,
+    "p_positive": 0.9979593753814697,
+    "sentiment_score": 0.9975101210875437,
+    "confidence": 0.9979593753814697
+  },
+  {
+    "news_id": 257,
+    "sentiment_label": "positive",
+    "p_negative": 0.000485847529489547,
+    "p_neutral": 0.004273473285138607,
+    "p_positive": 0.9952406883239746,
+    "sentiment_score": 0.9947548407944851,
+    "confidence": 0.9952406883239746
+  },
+  {
+    "news_id": 256,
+    "sentiment_label": "positive",
+    "p_negative": 0.010983548127114773,
+    "p_neutral": 0.144627183675766,
+    "p_positive": 0.8443892598152161,
+    "sentiment_score": 0.8334057116881013,
+    "confidence": 0.8443892598152161
+  },
+  {
+    "news_id": 80,
+    "sentiment_label": "positive",
+    "p_negative": 0.0012036319822072983,
+    "p_neutral": 0.02691182866692543,
+    "p_positive": 0.9718846082687378,
+    "sentiment_score": 0.9706809762865305,
+    "confidence": 0.9718846082687378
+  },
+  {
+    "news_id": 286,
+    "sentiment_label": "positive",
+    "p_negative": 0.0016375145642086864,
+    "p_neutral": 0.014700580388307571,
+    "p_positive": 0.983661949634552,
+    "sentiment_score": 0.9820244350703433,
+    "confidence": 0.983661949634552
+  },
+  {
+    "news_id": 9,
+    "sentiment_label": "positive",
+    "p_negative": 0.0021653578151017427,
+    "p_neutral": 0.01975865848362446,
+    "p_positive": 0.9780760407447815,
+    "sentiment_score": 0.9759106829296798,
+    "confidence": 0.9780760407447815
+  },
+  {
+    "news_id": 79,
+    "sentiment_label": "positive",
+    "p_negative": 0.0015376710798591375,
+    "p_neutral": 0.011811239644885063,
+    "p_positive": 0.9866510629653931,
+    "sentiment_score": 0.9851133918855339,
+    "confidence": 0.9866510629653931
+  },
+  {
+    "news_id": 285,
+    "sentiment_label": "positive",
+    "p_negative": 0.03215402737259865,
+    "p_neutral": 0.3669949769973755,
+    "p_positive": 0.6008509993553162,
+    "sentiment_score": 0.5686969719827175,
+    "confidence": 0.6008509993553162
+  },
+  {
+    "news_id": 78,
+    "sentiment_label": "positive",
+    "p_negative": 0.0013453657738864422,
+    "p_neutral": 0.008905810303986073,
+    "p_positive": 0.9897487759590149,
+    "sentiment_score": 0.9884034101851285,
+    "confidence": 0.9897487759590149
+  },
+  {
+    "news_id": 77,
+    "sentiment_label": "positive",
+    "p_negative": 0.003343168878927827,
+    "p_neutral": 0.03662025183439255,
+    "p_positive": 0.9600366353988647,
+    "sentiment_score": 0.9566934665199369,
+    "confidence": 0.9600366353988647
+  },
+  {
+    "news_id": 76,
+    "sentiment_label": "neutral",
+    "p_negative": 0.020044678822159767,
+    "p_neutral": 0.5240329504013062,
+    "p_positive": 0.4559224545955658,
+    "sentiment_score": 0.43587777577340603,
+    "confidence": 0.5240329504013062
+  },
+  {
+    "news_id": 75,
+    "sentiment_label": "negative",
+    "p_negative": 0.7851674556732178,
+    "p_neutral": 0.18600992858409882,
+    "p_positive": 0.028822673484683037,
+    "sentiment_score": -0.7563447821885347,
+    "confidence": 0.7851674556732178
+  },
+  {
+    "news_id": 74,
+    "sentiment_label": "neutral",
+    "p_negative": 0.03025134839117527,
+    "p_neutral": 0.5752068758010864,
+    "p_positive": 0.3945416808128357,
+    "sentiment_score": 0.3642903324216604,
+    "confidence": 0.5752068758010864
+  },
+  {
+    "news_id": 73,
+    "sentiment_label": "positive",
+    "p_negative": 0.0025786675978451967,
+    "p_neutral": 0.02709566429257393,
+    "p_positive": 0.9703256487846375,
+    "sentiment_score": 0.9677469811867923,
+    "confidence": 0.9703256487846375
+  },
+  {
+    "news_id": 72,
+    "sentiment_label": "neutral",
+    "p_negative": 0.09827245026826859,
+    "p_neutral": 0.7126230001449585,
+    "p_positive": 0.18910449743270874,
+    "sentiment_score": 0.09083204716444016,
+    "confidence": 0.7126230001449585
+  },
+  {
+    "news_id": 8,
+    "sentiment_label": "positive",
+    "p_negative": 0.0005315787857398391,
+    "p_neutral": 0.002191987819969654,
+    "p_positive": 0.9972764849662781,
+    "sentiment_score": 0.9967449061805382,
+    "confidence": 0.9972764849662781
+  },
+  {
+    "news_id": 255,
+    "sentiment_label": "positive",
+    "p_negative": 0.0016915720188990235,
+    "p_neutral": 0.008596519008278847,
+    "p_positive": 0.9897118806838989,
+    "sentiment_score": 0.9880203086649999,
+    "confidence": 0.9897118806838989
+  },
+  {
+    "news_id": 71,
+    "sentiment_label": "positive",
+    "p_negative": 0.0029915128834545612,
+    "p_neutral": 0.01713932864367962,
+    "p_positive": 0.9798691868782043,
+    "sentiment_score": 0.9768776739947498,
+    "confidence": 0.9798691868782043
+  },
+  {
+    "news_id": 254,
+    "sentiment_label": "positive",
+    "p_negative": 0.036561012268066406,
+    "p_neutral": 0.23784199357032776,
+    "p_positive": 0.7255970239639282,
+    "sentiment_score": 0.6890360116958618,
+    "confidence": 0.7255970239639282
+  },
+  {
+    "news_id": 284,
+    "sentiment_label": "positive",
+    "p_negative": 0.05668681487441063,
+    "p_neutral": 0.2637867331504822,
+    "p_positive": 0.6795264482498169,
+    "sentiment_score": 0.6228396333754063,
+    "confidence": 0.6795264482498169
+  },
+  {
+    "news_id": 70,
+    "sentiment_label": "neutral",
+    "p_negative": 0.10285928100347519,
+    "p_neutral": 0.8187528848648071,
+    "p_positive": 0.07838786393404007,
+    "sentiment_score": -0.02447141706943512,
+    "confidence": 0.8187528848648071
+  },
+  {
+    "news_id": 283,
+    "sentiment_label": "positive",
+    "p_negative": 0.005240796133875847,
+    "p_neutral": 0.04771653190255165,
+    "p_positive": 0.94704270362854,
+    "sentiment_score": 0.9418019074946642,
+    "confidence": 0.94704270362854
+  },
+  {
+    "news_id": 282,
+    "sentiment_label": "positive",
+    "p_negative": 0.0019848213996738195,
+    "p_neutral": 0.04930555447936058,
+    "p_positive": 0.9487096071243286,
+    "sentiment_score": 0.9467247857246548,
+    "confidence": 0.9487096071243286
+  },
+  {
+    "news_id": 281,
+    "sentiment_label": "positive",
+    "p_negative": 0.0003177812322974205,
+    "p_neutral": 0.004290885757654905,
+    "p_positive": 0.9953913688659668,
+    "sentiment_score": 0.9950735876336694,
+    "confidence": 0.9953913688659668
+  },
+  {
+    "news_id": 280,
+    "sentiment_label": "positive",
+    "p_negative": 0.002750748535618186,
+    "p_neutral": 0.02172609232366085,
+    "p_positive": 0.9755232334136963,
+    "sentiment_score": 0.9727724848780781,
+    "confidence": 0.9755232334136963
+  },
+  {
+    "news_id": 69,
+    "sentiment_label": "positive",
+    "p_negative": 0.006219473667442799,
+    "p_neutral": 0.04064209386706352,
+    "p_positive": 0.9531384706497192,
+    "sentiment_score": 0.9469189969822764,
+    "confidence": 0.9531384706497192
+  },
+  {
+    "news_id": 68,
+    "sentiment_label": "positive",
+    "p_negative": 0.0011612188536673784,
+    "p_neutral": 0.008502689190208912,
+    "p_positive": 0.9903360605239868,
+    "sentiment_score": 0.9891748416703194,
+    "confidence": 0.9903360605239868
+  },
+  {
+    "news_id": 7,
+    "sentiment_label": "positive",
+    "p_negative": 0.0007452457211911678,
+    "p_neutral": 0.0031153513118624687,
+    "p_positive": 0.9961393475532532,
+    "sentiment_score": 0.995394101832062,
+    "confidence": 0.9961393475532532
+  },
+  {
+    "news_id": 67,
+    "sentiment_label": "positive",
+    "p_negative": 0.0036225570365786552,
+    "p_neutral": 0.01499060820788145,
+    "p_positive": 0.9813868403434753,
+    "sentiment_score": 0.9777642833068967,
+    "confidence": 0.9813868403434753
+  },
+  {
+    "news_id": 279,
+    "sentiment_label": "neutral",
+    "p_negative": 0.09854814410209656,
+    "p_neutral": 0.8104689121246338,
+    "p_positive": 0.09098298847675323,
+    "sentiment_score": -0.007565155625343323,
+    "confidence": 0.8104689121246338
+  },
+  {
+    "news_id": 66,
+    "sentiment_label": "positive",
+    "p_negative": 0.07729993015527725,
+    "p_neutral": 0.3452680706977844,
+    "p_positive": 0.5774319767951965,
+    "sentiment_score": 0.5001320466399193,
+    "confidence": 0.5774319767951965
+  },
+  {
+    "news_id": 65,
+    "sentiment_label": "positive",
+    "p_negative": 0.0025181982200592756,
+    "p_neutral": 0.03324253112077713,
+    "p_positive": 0.9642392992973328,
+    "sentiment_score": 0.9617211010772735,
+    "confidence": 0.9642392992973328
+  },
+  {
+    "news_id": 278,
+    "sentiment_label": "positive",
+    "p_negative": 0.0019238728564232588,
+    "p_neutral": 0.017094170674681664,
+    "p_positive": 0.9809819459915161,
+    "sentiment_score": 0.9790580731350929,
+    "confidence": 0.9809819459915161
+  },
+  {
+    "news_id": 64,
+    "sentiment_label": "positive",
+    "p_negative": 0.001000465010292828,
+    "p_neutral": 0.005439838394522667,
+    "p_positive": 0.993559718132019,
+    "sentiment_score": 0.9925592531217262,
+    "confidence": 0.993559718132019
+  },
+  {
+    "news_id": 63,
+    "sentiment_label": "positive",
+    "p_negative": 0.0010759838623926044,
+    "p_neutral": 0.019662419334053993,
+    "p_positive": 0.9792615175247192,
+    "sentiment_score": 0.9781855336623266,
+    "confidence": 0.9792615175247192
+  },
+  {
+    "news_id": 6,
+    "sentiment_label": "positive",
+    "p_negative": 0.0007105856784619391,
+    "p_neutral": 0.004480001050978899,
+    "p_positive": 0.9948093891143799,
+    "sentiment_score": 0.9940988034359179,
+    "confidence": 0.9948093891143799
+  },
+  {
+    "news_id": 62,
+    "sentiment_label": "positive",
+    "p_negative": 0.0016456061275675893,
+    "p_neutral": 0.038540713489055634,
+    "p_positive": 0.95981365442276,
+    "sentiment_score": 0.9581680482951924,
+    "confidence": 0.95981365442276
+  },
+  {
+    "news_id": 61,
+    "sentiment_label": "positive",
+    "p_negative": 0.00986232329159975,
+    "p_neutral": 0.17423447966575623,
+    "p_positive": 0.8159032464027405,
+    "sentiment_score": 0.8060409231111407,
+    "confidence": 0.8159032464027405
+  },
+  {
+    "news_id": 60,
+    "sentiment_label": "positive",
+    "p_negative": 0.005303877871483564,
+    "p_neutral": 0.2211826741695404,
+    "p_positive": 0.7735134363174438,
+    "sentiment_score": 0.7682095584459603,
+    "confidence": 0.7735134363174438
+  },
+  {
+    "news_id": 59,
+    "sentiment_label": "positive",
+    "p_negative": 0.002280199434608221,
+    "p_neutral": 0.04708930850028992,
+    "p_positive": 0.9506305456161499,
+    "sentiment_score": 0.9483503461815417,
+    "confidence": 0.9506305456161499
+  },
+  {
+    "news_id": 58,
+    "sentiment_label": "positive",
+    "p_negative": 0.015633132308721542,
+    "p_neutral": 0.1082884818315506,
+    "p_positive": 0.8760783672332764,
+    "sentiment_score": 0.8604452349245548,
+    "confidence": 0.8760783672332764
+  },
+  {
+    "news_id": 57,
+    "sentiment_label": "positive",
+    "p_negative": 0.001964234746992588,
+    "p_neutral": 0.053340885788202286,
+    "p_positive": 0.9446948766708374,
+    "sentiment_score": 0.9427306419238448,
+    "confidence": 0.9446948766708374
+  },
+  {
+    "news_id": 277,
+    "sentiment_label": "positive",
+    "p_negative": 0.014095304533839226,
+    "p_neutral": 0.10701111704111099,
+    "p_positive": 0.8788934946060181,
+    "sentiment_score": 0.8647981900721788,
+    "confidence": 0.8788934946060181
+  },
+  {
+    "news_id": 56,
+    "sentiment_label": "positive",
+    "p_negative": 0.0024986788630485535,
+    "p_neutral": 0.020594218745827675,
+    "p_positive": 0.9769070744514465,
+    "sentiment_score": 0.974408395588398,
+    "confidence": 0.9769070744514465
+  },
+  {
+    "news_id": 55,
+    "sentiment_label": "neutral",
+    "p_negative": 0.17361502349376678,
+    "p_neutral": 0.7184299826622009,
+    "p_positive": 0.10795503854751587,
+    "sentiment_score": -0.06565998494625092,
+    "confidence": 0.7184299826622009
+  },
+  {
+    "news_id": 54,
+    "sentiment_label": "positive",
+    "p_negative": 0.003807533998042345,
+    "p_neutral": 0.024990709498524666,
+    "p_positive": 0.9712018370628357,
+    "sentiment_score": 0.9673943030647933,
+    "confidence": 0.9712018370628357
+  },
+  {
+    "news_id": 226,
+    "sentiment_label": "positive",
+    "p_negative": 0.023384887725114822,
+    "p_neutral": 0.3838702440261841,
+    "p_positive": 0.5927448868751526,
+    "sentiment_score": 0.5693599991500378,
+    "confidence": 0.5927448868751526
+  },
+  {
+    "news_id": 276,
+    "sentiment_label": "neutral",
+    "p_negative": 0.17304036021232605,
+    "p_neutral": 0.7556162476539612,
+    "p_positive": 0.07134343683719635,
+    "sentiment_score": -0.1016969233751297,
+    "confidence": 0.7556162476539612
+  },
+  {
+    "news_id": 53,
+    "sentiment_label": "negative",
+    "p_negative": 0.8622185587882996,
+    "p_neutral": 0.09564942121505737,
+    "p_positive": 0.04213210940361023,
+    "sentiment_score": -0.8200864493846893,
+    "confidence": 0.8622185587882996
+  },
+  {
+    "news_id": 52,
+    "sentiment_label": "positive",
+    "p_negative": 0.01835237629711628,
+    "p_neutral": 0.3501225709915161,
+    "p_positive": 0.6315250396728516,
+    "sentiment_score": 0.6131726633757353,
+    "confidence": 0.6315250396728516
+  },
+  {
+    "news_id": 275,
+    "sentiment_label": "neutral",
+    "p_negative": 0.28794655203819275,
+    "p_neutral": 0.6042137145996094,
+    "p_positive": 0.10783971846103668,
+    "sentiment_score": -0.18010683357715607,
+    "confidence": 0.6042137145996094
+  },
+  {
+    "news_id": 51,
+    "sentiment_label": "positive",
+    "p_negative": 0.0005513642681762576,
+    "p_neutral": 0.015056608244776726,
+    "p_positive": 0.9843920469284058,
+    "sentiment_score": 0.9838406826602295,
+    "confidence": 0.9843920469284058
+  },
+  {
+    "news_id": 50,
+    "sentiment_label": "neutral",
+    "p_negative": 0.3090486526489258,
+    "p_neutral": 0.6601641178131104,
+    "p_positive": 0.0307871513068676,
+    "sentiment_score": -0.2782615013420582,
+    "confidence": 0.6601641178131104
+  },
+  {
+    "news_id": 253,
+    "sentiment_label": "positive",
+    "p_negative": 0.01173439808189869,
+    "p_neutral": 0.3816970884799957,
+    "p_positive": 0.6065685153007507,
+    "sentiment_score": 0.594834117218852,
+    "confidence": 0.6065685153007507
+  },
+  {
+    "news_id": 274,
+    "sentiment_label": "neutral",
+    "p_negative": 0.06325065344572067,
+    "p_neutral": 0.6578352451324463,
+    "p_positive": 0.27891406416893005,
+    "sentiment_score": 0.21566341072320938,
+    "confidence": 0.6578352451324463
+  },
+  {
+    "news_id": 49,
+    "sentiment_label": "positive",
+    "p_negative": 0.004051384050399065,
+    "p_neutral": 0.07972247153520584,
+    "p_positive": 0.9162260890007019,
+    "sentiment_score": 0.9121747049503028,
+    "confidence": 0.9162260890007019
+  },
+  {
+    "news_id": 225,
+    "sentiment_label": "positive",
+    "p_negative": 0.0013310166541486979,
+    "p_neutral": 0.009382383897900581,
+    "p_positive": 0.9892866015434265,
+    "sentiment_score": 0.9879555848892778,
+    "confidence": 0.9892866015434265
+  },
+  {
+    "news_id": 48,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004210981132928282,
+    "p_neutral": 0.0022339157294481993,
+    "p_positive": 0.9973450303077698,
+    "sentiment_score": 0.996923932194477,
+    "confidence": 0.9973450303077698
+  },
+  {
+    "news_id": 47,
+    "sentiment_label": "positive",
+    "p_negative": 0.01837441511452198,
+    "p_neutral": 0.2851383090019226,
+    "p_positive": 0.696487307548523,
+    "sentiment_score": 0.678112892434001,
+    "confidence": 0.696487307548523
+  },
+  {
+    "news_id": 46,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009110848186537623,
+    "p_neutral": 0.020245736464858055,
+    "p_positive": 0.9788432121276855,
+    "sentiment_score": 0.9779321273090318,
+    "confidence": 0.9788432121276855
+  },
+  {
+    "news_id": 45,
+    "sentiment_label": "negative",
+    "p_negative": 0.6299237012863159,
+    "p_neutral": 0.32668447494506836,
+    "p_positive": 0.04339186102151871,
+    "sentiment_score": -0.5865318402647972,
+    "confidence": 0.6299237012863159
+  },
+  {
+    "news_id": 5,
+    "sentiment_label": "positive",
+    "p_negative": 0.0019653060007840395,
+    "p_neutral": 0.010766725055873394,
+    "p_positive": 0.9872680306434631,
+    "sentiment_score": 0.9853027246426791,
+    "confidence": 0.9872680306434631
+  },
+  {
+    "news_id": 44,
+    "sentiment_label": "positive",
+    "p_negative": 0.004500840790569782,
+    "p_neutral": 0.17625661194324493,
+    "p_positive": 0.819242537021637,
+    "sentiment_score": 0.8147416962310672,
+    "confidence": 0.819242537021637
+  },
+  {
+    "news_id": 224,
+    "sentiment_label": "neutral",
+    "p_negative": 0.07230135053396225,
+    "p_neutral": 0.8031803369522095,
+    "p_positive": 0.12451831251382828,
+    "sentiment_score": 0.05221696197986603,
+    "confidence": 0.8031803369522095
+  },
+  {
+    "news_id": 273,
+    "sentiment_label": "positive",
+    "p_negative": 0.021132390946149826,
+    "p_neutral": 0.434921532869339,
+    "p_positive": 0.5439460277557373,
+    "sentiment_score": 0.5228136368095875,
+    "confidence": 0.5439460277557373
+  },
+  {
+    "news_id": 251,
+    "sentiment_label": "positive",
+    "p_negative": 0.014717858284711838,
+    "p_neutral": 0.4018896222114563,
+    "p_positive": 0.5833926200866699,
+    "sentiment_score": 0.5686747618019581,
+    "confidence": 0.5833926200866699
+  },
+  {
+    "news_id": 43,
+    "sentiment_label": "positive",
+    "p_negative": 0.032902974635362625,
+    "p_neutral": 0.39011457562446594,
+    "p_positive": 0.5769824385643005,
+    "sentiment_score": 0.5440794639289379,
+    "confidence": 0.5769824385643005
+  },
+  {
+    "news_id": 4,
+    "sentiment_label": "neutral",
+    "p_negative": 0.35709965229034424,
+    "p_neutral": 0.6247133612632751,
+    "p_positive": 0.018186932429671288,
+    "sentiment_score": -0.33891271986067295,
+    "confidence": 0.6247133612632751
+  },
+  {
+    "news_id": 3,
+    "sentiment_label": "neutral",
+    "p_negative": 0.19019481539726257,
+    "p_neutral": 0.6118782162666321,
+    "p_positive": 0.19792693853378296,
+    "sentiment_score": 0.007732123136520386,
+    "confidence": 0.6118782162666321
+  },
+  {
+    "news_id": 272,
+    "sentiment_label": "positive",
+    "p_negative": 0.006509462837129831,
+    "p_neutral": 0.024383123964071274,
+    "p_positive": 0.9691073894500732,
+    "sentiment_score": 0.9625979266129434,
+    "confidence": 0.9691073894500732
+  },
+  {
+    "news_id": 271,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009667936246842146,
+    "p_neutral": 0.010718917474150658,
+    "p_positive": 0.9883142709732056,
+    "sentiment_score": 0.9873474773485214,
+    "confidence": 0.9883142709732056
+  },
+  {
+    "news_id": 42,
+    "sentiment_label": "positive",
+    "p_negative": 0.0055028218775987625,
+    "p_neutral": 0.0458797924220562,
+    "p_positive": 0.9486173391342163,
+    "sentiment_score": 0.9431145172566175,
+    "confidence": 0.9486173391342163
+  },
+  {
+    "news_id": 41,
+    "sentiment_label": "positive",
+    "p_negative": 0.036160655319690704,
+    "p_neutral": 0.3966395854949951,
+    "p_positive": 0.5671997666358948,
+    "sentiment_score": 0.5310391113162041,
+    "confidence": 0.5671997666358948
+  },
+  {
+    "news_id": 270,
+    "sentiment_label": "positive",
+    "p_negative": 0.00039243660285137594,
+    "p_neutral": 0.007324982434511185,
+    "p_positive": 0.9922825694084167,
+    "sentiment_score": 0.9918901328055654,
+    "confidence": 0.9922825694084167
+  },
+  {
+    "news_id": 40,
+    "sentiment_label": "positive",
+    "p_negative": 0.12576031684875488,
+    "p_neutral": 0.19884420931339264,
+    "p_positive": 0.6753954887390137,
+    "sentiment_score": 0.5496351718902588,
+    "confidence": 0.6753954887390137
+  },
+  {
+    "news_id": 269,
+    "sentiment_label": "neutral",
+    "p_negative": 0.032748203724622726,
+    "p_neutral": 0.5562632083892822,
+    "p_positive": 0.41098862886428833,
+    "sentiment_score": 0.3782404251396656,
+    "confidence": 0.5562632083892822
+  },
+  {
+    "news_id": 250,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006713582552038133,
+    "p_neutral": 0.00343623966909945,
+    "p_positive": 0.9958924055099487,
+    "sentiment_score": 0.9952210472547449,
+    "confidence": 0.9958924055099487
+  },
+  {
+    "news_id": 268,
+    "sentiment_label": "positive",
+    "p_negative": 0.002512849634513259,
+    "p_neutral": 0.029931174591183662,
+    "p_positive": 0.9675559997558594,
+    "sentiment_score": 0.9650431501213461,
+    "confidence": 0.9675559997558594
+  },
+  {
+    "news_id": 249,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006659672944806516,
+    "p_neutral": 0.014775201678276062,
+    "p_positive": 0.9845588803291321,
+    "sentiment_score": 0.9838929130346514,
+    "confidence": 0.9845588803291321
+  },
+  {
+    "news_id": 39,
+    "sentiment_label": "neutral",
+    "p_negative": 0.11116088181734085,
+    "p_neutral": 0.7805714011192322,
+    "p_positive": 0.10826778411865234,
+    "sentiment_score": -0.002893097698688507,
+    "confidence": 0.7805714011192322
+  },
+  {
+    "news_id": 38,
+    "sentiment_label": "positive",
+    "p_negative": 0.00493430532515049,
+    "p_neutral": 0.039245445281267166,
+    "p_positive": 0.9558202028274536,
+    "sentiment_score": 0.9508858975023031,
+    "confidence": 0.9558202028274536
+  },
+  {
+    "news_id": 37,
+    "sentiment_label": "positive",
+    "p_negative": 0.04065532982349396,
+    "p_neutral": 0.32456788420677185,
+    "p_positive": 0.6347768902778625,
+    "sentiment_score": 0.5941215604543686,
+    "confidence": 0.6347768902778625
+  },
+  {
+    "news_id": 248,
+    "sentiment_label": "positive",
+    "p_negative": 0.0013619933743029833,
+    "p_neutral": 0.007510987110435963,
+    "p_positive": 0.991127073764801,
+    "sentiment_score": 0.989765080390498,
+    "confidence": 0.991127073764801
+  },
+  {
+    "news_id": 2,
+    "sentiment_label": "positive",
+    "p_negative": 0.039675045758485794,
+    "p_neutral": 0.24299292266368866,
+    "p_positive": 0.7173320055007935,
+    "sentiment_score": 0.6776569597423077,
+    "confidence": 0.7173320055007935
+  },
+  {
+    "news_id": 36,
+    "sentiment_label": "positive",
+    "p_negative": 0.0006423081504181027,
+    "p_neutral": 0.002464112127199769,
+    "p_positive": 0.9968935251235962,
+    "sentiment_score": 0.9962512169731781,
+    "confidence": 0.9968935251235962
+  },
+  {
+    "news_id": 267,
+    "sentiment_label": "positive",
+    "p_negative": 0.004238690249621868,
+    "p_neutral": 0.018960734829306602,
+    "p_positive": 0.9768005609512329,
+    "sentiment_score": 0.972561870701611,
+    "confidence": 0.9768005609512329
+  },
+  {
+    "news_id": 1,
+    "sentiment_label": "positive",
+    "p_negative": 0.001137418090365827,
+    "p_neutral": 0.006353980861604214,
+    "p_positive": 0.992508590221405,
+    "sentiment_score": 0.9913711721310392,
+    "confidence": 0.992508590221405
+  },
+  {
+    "news_id": 247,
+    "sentiment_label": "neutral",
+    "p_negative": 0.13636277616024017,
+    "p_neutral": 0.6403579115867615,
+    "p_positive": 0.22327928245067596,
+    "sentiment_score": 0.08691650629043579,
+    "confidence": 0.6403579115867615
+  },
+  {
+    "news_id": 266,
+    "sentiment_label": "positive",
+    "p_negative": 0.005568741820752621,
+    "p_neutral": 0.12331394106149673,
+    "p_positive": 0.8711172938346863,
+    "sentiment_score": 0.8655485520139337,
+    "confidence": 0.8711172938346863
+  },
+  {
+    "news_id": 35,
+    "sentiment_label": "positive",
+    "p_negative": 0.01584402658045292,
+    "p_neutral": 0.19588011503219604,
+    "p_positive": 0.7882758975028992,
+    "sentiment_score": 0.7724318709224463,
+    "confidence": 0.7882758975028992
+  },
+  {
+    "news_id": 34,
+    "sentiment_label": "positive",
+    "p_negative": 0.014432206749916077,
+    "p_neutral": 0.1916101574897766,
+    "p_positive": 0.7939576506614685,
+    "sentiment_score": 0.7795254439115524,
+    "confidence": 0.7939576506614685
+  },
+  {
+    "news_id": 33,
+    "sentiment_label": "positive",
+    "p_negative": 0.0033232509158551693,
+    "p_neutral": 0.04361223801970482,
+    "p_positive": 0.953064501285553,
+    "sentiment_score": 0.9497412503696978,
+    "confidence": 0.953064501285553
+  },
+  {
+    "news_id": 326,
+    "sentiment_label": "positive",
+    "p_negative": 0.0014594208914786577,
+    "p_neutral": 0.005679913330823183,
+    "p_positive": 0.9928606152534485,
+    "sentiment_score": 0.9914011943619698,
+    "confidence": 0.9928606152534485
+  },
+  {
+    "news_id": 341,
+    "sentiment_label": "positive",
+    "p_negative": 0.0004564527771435678,
+    "p_neutral": 0.003181049134582281,
+    "p_positive": 0.9963625073432922,
+    "sentiment_score": 0.9959060545661487,
+    "confidence": 0.9963625073432922
+  },
+  {
+    "news_id": 325,
+    "sentiment_label": "positive",
+    "p_negative": 0.0012157077435404062,
+    "p_neutral": 0.0071790749207139015,
+    "p_positive": 0.9916051626205444,
+    "sentiment_score": 0.990389454877004,
+    "confidence": 0.9916051626205444
+  },
+  {
+    "news_id": 351,
+    "sentiment_label": "positive",
+    "p_negative": 0.002098576631397009,
+    "p_neutral": 0.02081085555255413,
+    "p_positive": 0.97709059715271,
+    "sentiment_score": 0.974992020521313,
+    "confidence": 0.97709059715271
+  },
+  {
+    "news_id": 350,
+    "sentiment_label": "positive",
+    "p_negative": 0.018873244524002075,
+    "p_neutral": 0.09742429107427597,
+    "p_positive": 0.8837025165557861,
+    "sentiment_score": 0.8648292720317841,
+    "confidence": 0.8837025165557861
+  },
+  {
+    "news_id": 349,
+    "sentiment_label": "positive",
+    "p_negative": 0.004402162507176399,
+    "p_neutral": 0.013986255042254925,
+    "p_positive": 0.9816115498542786,
+    "sentiment_score": 0.9772093873471022,
+    "confidence": 0.9816115498542786
+  },
+  {
+    "news_id": 348,
+    "sentiment_label": "positive",
+    "p_negative": 0.0017311354167759418,
+    "p_neutral": 0.01609255000948906,
+    "p_positive": 0.9821763634681702,
+    "sentiment_score": 0.9804452280513942,
+    "confidence": 0.9821763634681702
+  },
+  {
+    "news_id": 347,
+    "sentiment_label": "positive",
+    "p_negative": 0.017733903601765633,
+    "p_neutral": 0.22847026586532593,
+    "p_positive": 0.753795862197876,
+    "sentiment_score": 0.7360619585961103,
+    "confidence": 0.753795862197876
+  },
+  {
+    "news_id": 346,
+    "sentiment_label": "positive",
+    "p_negative": 0.003719883505254984,
+    "p_neutral": 0.03806941956281662,
+    "p_positive": 0.9582107663154602,
+    "sentiment_score": 0.9544908828102052,
+    "confidence": 0.9582107663154602
+  },
+  {
+    "news_id": 345,
+    "sentiment_label": "positive",
+    "p_negative": 0.027682552114129066,
+    "p_neutral": 0.3907722532749176,
+    "p_positive": 0.5815451741218567,
+    "sentiment_score": 0.5538626220077276,
+    "confidence": 0.5815451741218567
+  },
+  {
+    "news_id": 344,
+    "sentiment_label": "positive",
+    "p_negative": 0.008649233728647232,
+    "p_neutral": 0.058327194303274155,
+    "p_positive": 0.9330235719680786,
+    "sentiment_score": 0.9243743382394314,
+    "confidence": 0.9330235719680786
+  },
+  {
+    "news_id": 324,
+    "sentiment_label": "positive",
+    "p_negative": 0.0019467270467430353,
+    "p_neutral": 0.00785626471042633,
+    "p_positive": 0.990196943283081,
+    "sentiment_score": 0.988250216236338,
+    "confidence": 0.990196943283081
+  },
+  {
+    "news_id": 343,
+    "sentiment_label": "positive",
+    "p_negative": 0.0007459300686605275,
+    "p_neutral": 0.004359947983175516,
+    "p_positive": 0.9948941469192505,
+    "sentiment_score": 0.99414821685059,
+    "confidence": 0.9948941469192505
+  },
+  {
+    "news_id": 323,
+    "sentiment_label": "neutral",
+    "p_negative": 0.32020100951194763,
+    "p_neutral": 0.6133683323860168,
+    "p_positive": 0.0664307028055191,
+    "sentiment_score": -0.25377030670642853,
+    "confidence": 0.6133683323860168
+  },
+  {
+    "news_id": 340,
+    "sentiment_label": "positive",
+    "p_negative": 0.03823478892445564,
+    "p_neutral": 0.26294100284576416,
+    "p_positive": 0.6988242268562317,
+    "sentiment_score": 0.660589437931776,
+    "confidence": 0.6988242268562317
+  },
+  {
+    "news_id": 339,
+    "sentiment_label": "positive",
+    "p_negative": 0.00115333148278296,
+    "p_neutral": 0.004450113978236914,
+    "p_positive": 0.9943965673446655,
+    "sentiment_score": 0.9932432358618826,
+    "confidence": 0.9943965673446655
+  },
+  {
+    "news_id": 322,
+    "sentiment_label": "positive",
+    "p_negative": 0.0019494714215397835,
+    "p_neutral": 0.010316486470401287,
+    "p_positive": 0.9877340793609619,
+    "sentiment_score": 0.9857846079394221,
+    "confidence": 0.9877340793609619
+  },
+  {
+    "news_id": 321,
+    "sentiment_label": "neutral",
+    "p_negative": 0.29076164960861206,
+    "p_neutral": 0.6317424178123474,
+    "p_positive": 0.07749594748020172,
+    "sentiment_score": -0.21326570212841034,
+    "confidence": 0.6317424178123474
+  },
+  {
+    "news_id": 338,
+    "sentiment_label": "positive",
+    "p_negative": 0.011148392222821712,
+    "p_neutral": 0.10484021157026291,
+    "p_positive": 0.884011447429657,
+    "sentiment_score": 0.8728630552068353,
+    "confidence": 0.884011447429657
+  },
+  {
+    "news_id": 320,
+    "sentiment_label": "neutral",
+    "p_negative": 0.16793419420719147,
+    "p_neutral": 0.6889057159423828,
+    "p_positive": 0.14316001534461975,
+    "sentiment_score": -0.024774178862571716,
+    "confidence": 0.6889057159423828
+  },
+  {
+    "news_id": 333,
+    "sentiment_label": "positive",
+    "p_negative": 0.0012851671781390905,
+    "p_neutral": 0.009131914004683495,
+    "p_positive": 0.989582896232605,
+    "sentiment_score": 0.9882977290544659,
+    "confidence": 0.989582896232605
+  },
+  {
+    "news_id": 330,
+    "sentiment_label": "positive",
+    "p_negative": 0.04839211702346802,
+    "p_neutral": 0.43295419216156006,
+    "p_positive": 0.5186537504196167,
+    "sentiment_score": 0.4702616333961487,
+    "confidence": 0.5186537504196167
+  },
+  {
+    "news_id": 337,
+    "sentiment_label": "positive",
+    "p_negative": 0.021448062732815742,
+    "p_neutral": 0.1216433122754097,
+    "p_positive": 0.8569085597991943,
+    "sentiment_score": 0.8354604970663786,
+    "confidence": 0.8569085597991943
+  },
+  {
+    "news_id": 336,
+    "sentiment_label": "positive",
+    "p_negative": 0.060240741819143295,
+    "p_neutral": 0.39509373903274536,
+    "p_positive": 0.544665515422821,
+    "sentiment_score": 0.48442477360367775,
+    "confidence": 0.544665515422821
+  },
+  {
+    "news_id": 319,
+    "sentiment_label": "negative",
+    "p_negative": 0.673920750617981,
+    "p_neutral": 0.2942158877849579,
+    "p_positive": 0.031863387674093246,
+    "sentiment_score": -0.6420573629438877,
+    "confidence": 0.673920750617981
+  },
+  {
+    "news_id": 318,
+    "sentiment_label": "neutral",
+    "p_negative": 0.04150916635990143,
+    "p_neutral": 0.4961682856082916,
+    "p_positive": 0.46232256293296814,
+    "sentiment_score": 0.4208133965730667,
+    "confidence": 0.4961682856082916
+  },
+  {
+    "news_id": 317,
+    "sentiment_label": "positive",
+    "p_negative": 0.0016055174637585878,
+    "p_neutral": 0.008488635532557964,
+    "p_positive": 0.9899058938026428,
+    "sentiment_score": 0.9883003763388842,
+    "confidence": 0.9899058938026428
+  },
+  {
+    "news_id": 316,
+    "sentiment_label": "positive",
+    "p_negative": 0.0009578782483004034,
+    "p_neutral": 0.006895559374243021,
+    "p_positive": 0.9921465516090393,
+    "sentiment_score": 0.9911886733607389,
+    "confidence": 0.9921465516090393
+  },
+  {
+    "news_id": 315,
+    "sentiment_label": "neutral",
+    "p_negative": 0.46169212460517883,
+    "p_neutral": 0.5025577545166016,
+    "p_positive": 0.035750120878219604,
+    "sentiment_score": -0.42594200372695923,
+    "confidence": 0.5025577545166016
+  },
+  {
+    "news_id": 314,
+    "sentiment_label": "positive",
+    "p_negative": 0.01649921014904976,
+    "p_neutral": 0.06719564646482468,
+    "p_positive": 0.9163051843643188,
+    "sentiment_score": 0.8998059742152691,
+    "confidence": 0.9163051843643188
+  },
+  {
+    "news_id": 313,
+    "sentiment_label": "positive",
+    "p_negative": 0.0023835194297134876,
+    "p_neutral": 0.02969609946012497,
+    "p_positive": 0.9679204225540161,
+    "sentiment_score": 0.9655369031243026,
+    "confidence": 0.9679204225540161
+  },
+  {
+    "news_id": 332,
+    "sentiment_label": "positive",
+    "p_negative": 0.0008132786606438458,
+    "p_neutral": 0.008994249626994133,
+    "p_positive": 0.9901925325393677,
+    "sentiment_score": 0.9893792538787238,
+    "confidence": 0.9901925325393677
+  },
+  {
+    "news_id": 312,
+    "sentiment_label": "positive",
+    "p_negative": 0.056763868778944016,
+    "p_neutral": 0.43196770548820496,
+    "p_positive": 0.5112684369087219,
+    "sentiment_score": 0.4545045681297779,
+    "confidence": 0.5112684369087219
+  },
+  {
+    "news_id": 311,
+    "sentiment_label": "positive",
+    "p_negative": 0.005196661222726107,
+    "p_neutral": 0.026860559359192848,
+    "p_positive": 0.9679427146911621,
+    "sentiment_score": 0.962746053468436,
+    "confidence": 0.9679427146911621
+  },
+  {
+    "news_id": 331,
+    "sentiment_label": "positive",
+    "p_negative": 0.0011297320015728474,
+    "p_neutral": 0.01384662464261055,
+    "p_positive": 0.9850236177444458,
+    "sentiment_score": 0.983893885742873,
+    "confidence": 0.9850236177444458
+  },
+  {
+    "news_id": 310,
+    "sentiment_label": "negative",
+    "p_negative": 0.443610817193985,
+    "p_neutral": 0.3951229453086853,
+    "p_positive": 0.16126620769500732,
+    "sentiment_score": -0.28234460949897766,
+    "confidence": 0.443610817193985
+  },
+  {
+    "news_id": 335,
+    "sentiment_label": "neutral",
+    "p_negative": 0.037811942398548126,
+    "p_neutral": 0.6897507309913635,
+    "p_positive": 0.27243730425834656,
+    "sentiment_score": 0.23462536185979843,
+    "confidence": 0.6897507309913635
+  },
+  {
+    "news_id": 334,
+    "sentiment_label": "neutral",
+    "p_negative": 0.257070928812027,
+    "p_neutral": 0.6848655343055725,
+    "p_positive": 0.05806342139840126,
+    "sentiment_score": -0.19900750741362572,
+    "confidence": 0.6848655343055725
+  },
+  {
+    "news_id": 309,
+    "sentiment_label": "positive",
+    "p_negative": 0.01225836668163538,
+    "p_neutral": 0.07860533148050308,
+    "p_positive": 0.9091362953186035,
+    "sentiment_score": 0.8968779286369681,
+    "confidence": 0.9091362953186035
+  },
+  {
+    "news_id": 308,
+    "sentiment_label": "positive",
+    "p_negative": 0.00312134250998497,
+    "p_neutral": 0.03353298082947731,
+    "p_positive": 0.9633457064628601,
+    "sentiment_score": 0.9602243639528751,
+    "confidence": 0.9633457064628601
+  },
+  {
+    "news_id": 307,
+    "sentiment_label": "positive",
+    "p_negative": 0.0027332305908203125,
+    "p_neutral": 0.012863870710134506,
+    "p_positive": 0.9844028949737549,
+    "sentiment_score": 0.9816696643829346,
+    "confidence": 0.9844028949737549
+  },
+  {
+    "news_id": 306,
+    "sentiment_label": "positive",
+    "p_negative": 0.030307065695524216,
+    "p_neutral": 0.46055805683135986,
+    "p_positive": 0.509134829044342,
+    "sentiment_score": 0.4788277633488178,
+    "confidence": 0.509134829044342
+  },
+  {
+    "news_id": 329,
+    "sentiment_label": "positive",
+    "p_negative": 0.04352410510182381,
+    "p_neutral": 0.2556200325489044,
+    "p_positive": 0.7008559107780457,
+    "sentiment_score": 0.6573318056762218,
+    "confidence": 0.7008559107780457
+  },
+  {
+    "news_id": 305,
+    "sentiment_label": "positive",
+    "p_negative": 0.04513273388147354,
+    "p_neutral": 0.3109833598136902,
+    "p_positive": 0.6438838839530945,
+    "sentiment_score": 0.5987511500716209,
+    "confidence": 0.6438838839530945
+  },
+  {
+    "news_id": 342,
+    "sentiment_label": "positive",
+    "p_negative": 0.00036899175029248,
+    "p_neutral": 0.002489572623744607,
+    "p_positive": 0.997141420841217,
+    "sentiment_score": 0.9967724290909246,
+    "confidence": 0.997141420841217
+  },
+  {
+    "news_id": 304,
+    "sentiment_label": "neutral",
+    "p_negative": 0.1317950338125229,
+    "p_neutral": 0.7143974304199219,
+    "p_positive": 0.15380755066871643,
+    "sentiment_score": 0.022012516856193542,
+    "confidence": 0.7143974304199219
+  }
+]
